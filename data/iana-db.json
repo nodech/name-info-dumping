@@ -1,0 +1,9428 @@
+[
+  {
+    "name": "aaa",
+    "namestr": ".aaa",
+    "type": "generic",
+    "owner": "American Automobile Association, Inc."
+  },
+  {
+    "name": "aarp",
+    "namestr": ".aarp",
+    "type": "generic",
+    "owner": "AARP"
+  },
+  {
+    "name": "abarth",
+    "namestr": ".abarth",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "abb",
+    "namestr": ".abb",
+    "type": "generic",
+    "owner": "ABB Ltd"
+  },
+  {
+    "name": "abbott",
+    "namestr": ".abbott",
+    "type": "generic",
+    "owner": "Abbott Laboratories, Inc."
+  },
+  {
+    "name": "abbvie",
+    "namestr": ".abbvie",
+    "type": "generic",
+    "owner": "AbbVie Inc."
+  },
+  {
+    "name": "abc",
+    "namestr": ".abc",
+    "type": "generic",
+    "owner": "Disney Enterprises, Inc."
+  },
+  {
+    "name": "able",
+    "namestr": ".able",
+    "type": "generic",
+    "owner": "Able Inc."
+  },
+  {
+    "name": "abogado",
+    "namestr": ".abogado",
+    "type": "generic",
+    "owner": "Registry Services, LLC"
+  },
+  {
+    "name": "abudhabi",
+    "namestr": ".abudhabi",
+    "type": "generic",
+    "owner": "Abu Dhabi Systems and Information Centre"
+  },
+  {
+    "name": "ac",
+    "namestr": ".ac",
+    "type": "country-code",
+    "owner": "Internet Computer Bureau Limited"
+  },
+  {
+    "name": "academy",
+    "namestr": ".academy",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "accenture",
+    "namestr": ".accenture",
+    "type": "generic",
+    "owner": "Accenture plc"
+  },
+  {
+    "name": "accountant",
+    "namestr": ".accountant",
+    "type": "generic",
+    "owner": "dot Accountant Limited"
+  },
+  {
+    "name": "accountants",
+    "namestr": ".accountants",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "aco",
+    "namestr": ".aco",
+    "type": "generic",
+    "owner": "ACO Severin Ahlmann GmbH &amp; Co. KG"
+  },
+  {
+    "name": "active",
+    "namestr": ".active",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "actor",
+    "namestr": ".actor",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "ad",
+    "namestr": ".ad",
+    "type": "country-code",
+    "owner": "Andorra Telecom"
+  },
+  {
+    "name": "adac",
+    "namestr": ".adac",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "ads",
+    "namestr": ".ads",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "adult",
+    "namestr": ".adult",
+    "type": "generic",
+    "owner": "ICM Registry AD LLC"
+  },
+  {
+    "name": "ae",
+    "namestr": ".ae",
+    "type": "country-code",
+    "owner": "Telecommunications and Digital Government Regulatory Authority (TDRA)"
+  },
+  {
+    "name": "aeg",
+    "namestr": ".aeg",
+    "type": "generic",
+    "owner": "Aktiebolaget Electrolux"
+  },
+  {
+    "name": "aero",
+    "namestr": ".aero",
+    "type": "sponsored",
+    "owner": "Societe Internationale de Telecommunications Aeronautique (SITA INC USA)"
+  },
+  {
+    "name": "aetna",
+    "namestr": ".aetna",
+    "type": "generic",
+    "owner": "Aetna Life Insurance Company"
+  },
+  {
+    "name": "af",
+    "namestr": ".af",
+    "type": "country-code",
+    "owner": "Ministry of Communications and IT"
+  },
+  {
+    "name": "afamilycompany",
+    "namestr": ".afamilycompany",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "afl",
+    "namestr": ".afl",
+    "type": "generic",
+    "owner": "Australian Football League"
+  },
+  {
+    "name": "africa",
+    "namestr": ".africa",
+    "type": "generic",
+    "owner": "ZA Central Registry NPC trading as Registry.Africa"
+  },
+  {
+    "name": "ag",
+    "namestr": ".ag",
+    "type": "country-code",
+    "owner": "UHSA School of Medicine"
+  },
+  {
+    "name": "agakhan",
+    "namestr": ".agakhan",
+    "type": "generic",
+    "owner": "Fondation Aga Khan (Aga Khan Foundation)"
+  },
+  {
+    "name": "agency",
+    "namestr": ".agency",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "ai",
+    "namestr": ".ai",
+    "type": "country-code",
+    "owner": "Government of Anguilla"
+  },
+  {
+    "name": "aig",
+    "namestr": ".aig",
+    "type": "generic",
+    "owner": "American International Group, Inc."
+  },
+  {
+    "name": "aigo",
+    "namestr": ".aigo",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "airbus",
+    "namestr": ".airbus",
+    "type": "generic",
+    "owner": "Airbus S.A.S."
+  },
+  {
+    "name": "airforce",
+    "namestr": ".airforce",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "airtel",
+    "namestr": ".airtel",
+    "type": "generic",
+    "owner": "Bharti Airtel Limited"
+  },
+  {
+    "name": "akdn",
+    "namestr": ".akdn",
+    "type": "generic",
+    "owner": "Fondation Aga Khan (Aga Khan Foundation)"
+  },
+  {
+    "name": "al",
+    "namestr": ".al",
+    "type": "country-code",
+    "owner": "Electronic and Postal Communications Authority - AKEP"
+  },
+  {
+    "name": "alfaromeo",
+    "namestr": ".alfaromeo",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "alibaba",
+    "namestr": ".alibaba",
+    "type": "generic",
+    "owner": "Alibaba Group Holding Limited"
+  },
+  {
+    "name": "alipay",
+    "namestr": ".alipay",
+    "type": "generic",
+    "owner": "Alibaba Group Holding Limited"
+  },
+  {
+    "name": "allfinanz",
+    "namestr": ".allfinanz",
+    "type": "generic",
+    "owner": "Allfinanz Deutsche Vermögensberatung Aktiengesellschaft"
+  },
+  {
+    "name": "allstate",
+    "namestr": ".allstate",
+    "type": "generic",
+    "owner": "Allstate Fire and Casualty Insurance Company"
+  },
+  {
+    "name": "ally",
+    "namestr": ".ally",
+    "type": "generic",
+    "owner": "Ally Financial Inc."
+  },
+  {
+    "name": "alsace",
+    "namestr": ".alsace",
+    "type": "generic",
+    "owner": "REGION GRAND EST"
+  },
+  {
+    "name": "alstom",
+    "namestr": ".alstom",
+    "type": "generic",
+    "owner": "ALSTOM"
+  },
+  {
+    "name": "am",
+    "namestr": ".am",
+    "type": "country-code",
+    "owner": "&quot;Internet Society&quot; Non-governmental Organization"
+  },
+  {
+    "name": "amazon",
+    "namestr": ".amazon",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "americanexpress",
+    "namestr": ".americanexpress",
+    "type": "generic",
+    "owner": "American Express Travel Related Services Company, Inc."
+  },
+  {
+    "name": "americanfamily",
+    "namestr": ".americanfamily",
+    "type": "generic",
+    "owner": "AmFam, Inc."
+  },
+  {
+    "name": "amex",
+    "namestr": ".amex",
+    "type": "generic",
+    "owner": "American Express Travel Related Services Company, Inc."
+  },
+  {
+    "name": "amfam",
+    "namestr": ".amfam",
+    "type": "generic",
+    "owner": "AmFam, Inc."
+  },
+  {
+    "name": "amica",
+    "namestr": ".amica",
+    "type": "generic",
+    "owner": "Amica Mutual Insurance Company"
+  },
+  {
+    "name": "amsterdam",
+    "namestr": ".amsterdam",
+    "type": "generic",
+    "owner": "Gemeente Amsterdam"
+  },
+  {
+    "name": "an",
+    "namestr": ".an",
+    "type": "country-code",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "analytics",
+    "namestr": ".analytics",
+    "type": "generic",
+    "owner": "Campus IP LLC"
+  },
+  {
+    "name": "android",
+    "namestr": ".android",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "anquan",
+    "namestr": ".anquan",
+    "type": "generic",
+    "owner": "QIHOO 360 TECHNOLOGY CO. LTD."
+  },
+  {
+    "name": "anz",
+    "namestr": ".anz",
+    "type": "generic",
+    "owner": "Australia and New Zealand Banking Group Limited"
+  },
+  {
+    "name": "ao",
+    "namestr": ".ao",
+    "type": "country-code",
+    "owner": "Ministry of Telecommunications and Information Technologies (MTTI)"
+  },
+  {
+    "name": "aol",
+    "namestr": ".aol",
+    "type": "generic",
+    "owner": "OATH Inc."
+  },
+  {
+    "name": "apartments",
+    "namestr": ".apartments",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "app",
+    "namestr": ".app",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "apple",
+    "namestr": ".apple",
+    "type": "generic",
+    "owner": "Apple Inc."
+  },
+  {
+    "name": "aq",
+    "namestr": ".aq",
+    "type": "country-code",
+    "owner": "Antarctica Network Information Centre Limited"
+  },
+  {
+    "name": "aquarelle",
+    "namestr": ".aquarelle",
+    "type": "generic",
+    "owner": "Aquarelle.com"
+  },
+  {
+    "name": "ar",
+    "namestr": ".ar",
+    "type": "country-code",
+    "owner": "Presidencia de la Nación – Secretaría Legal y Técnica"
+  },
+  {
+    "name": "arab",
+    "namestr": ".arab",
+    "type": "generic",
+    "owner": "League of Arab States"
+  },
+  {
+    "name": "aramco",
+    "namestr": ".aramco",
+    "type": "generic",
+    "owner": "Aramco Services Company"
+  },
+  {
+    "name": "archi",
+    "namestr": ".archi",
+    "type": "generic",
+    "owner": "Afilias Limited"
+  },
+  {
+    "name": "army",
+    "namestr": ".army",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "arpa",
+    "namestr": ".arpa",
+    "type": "infrastructure",
+    "owner": "Internet Architecture Board (IAB)"
+  },
+  {
+    "name": "art",
+    "namestr": ".art",
+    "type": "generic",
+    "owner": "UK Creative Ideas Limited"
+  },
+  {
+    "name": "arte",
+    "namestr": ".arte",
+    "type": "generic",
+    "owner": "Association Relative à la Télévision Européenne G.E.I.E."
+  },
+  {
+    "name": "as",
+    "namestr": ".as",
+    "type": "country-code",
+    "owner": "AS Domain Registry"
+  },
+  {
+    "name": "asda",
+    "namestr": ".asda",
+    "type": "generic",
+    "owner": "Wal-Mart Stores, Inc."
+  },
+  {
+    "name": "asia",
+    "namestr": ".asia",
+    "type": "sponsored",
+    "owner": "DotAsia Organisation Ltd."
+  },
+  {
+    "name": "associates",
+    "namestr": ".associates",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "at",
+    "namestr": ".at",
+    "type": "country-code",
+    "owner": "nic.at GmbH"
+  },
+  {
+    "name": "athleta",
+    "namestr": ".athleta",
+    "type": "generic",
+    "owner": "The Gap, Inc."
+  },
+  {
+    "name": "attorney",
+    "namestr": ".attorney",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "au",
+    "namestr": ".au",
+    "type": "country-code",
+    "owner": ".au Domain Administration (auDA)"
+  },
+  {
+    "name": "auction",
+    "namestr": ".auction",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "audi",
+    "namestr": ".audi",
+    "type": "generic",
+    "owner": "AUDI Aktiengesellschaft"
+  },
+  {
+    "name": "audible",
+    "namestr": ".audible",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "audio",
+    "namestr": ".audio",
+    "type": "generic",
+    "owner": "XYZ.COM LLC"
+  },
+  {
+    "name": "auspost",
+    "namestr": ".auspost",
+    "type": "generic",
+    "owner": "Australian Postal Corporation"
+  },
+  {
+    "name": "author",
+    "namestr": ".author",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "auto",
+    "namestr": ".auto",
+    "type": "generic",
+    "owner": "XYZ.COM LLC"
+  },
+  {
+    "name": "autos",
+    "namestr": ".autos",
+    "type": "generic",
+    "owner": "XYZ.COM LLC"
+  },
+  {
+    "name": "avianca",
+    "namestr": ".avianca",
+    "type": "generic",
+    "owner": "Avianca Holdings S.A."
+  },
+  {
+    "name": "aw",
+    "namestr": ".aw",
+    "type": "country-code",
+    "owner": "SETAR"
+  },
+  {
+    "name": "aws",
+    "namestr": ".aws",
+    "type": "generic",
+    "owner": "AWS Registry LLC"
+  },
+  {
+    "name": "ax",
+    "namestr": ".ax",
+    "type": "country-code",
+    "owner": "Ålands landskapsregering"
+  },
+  {
+    "name": "axa",
+    "namestr": ".axa",
+    "type": "generic",
+    "owner": "AXA Group Operations SAS"
+  },
+  {
+    "name": "az",
+    "namestr": ".az",
+    "type": "country-code",
+    "owner": "IntraNS"
+  },
+  {
+    "name": "azure",
+    "namestr": ".azure",
+    "type": "generic",
+    "owner": "Microsoft Corporation"
+  },
+  {
+    "name": "ba",
+    "namestr": ".ba",
+    "type": "country-code",
+    "owner": "Universtiy Telinformatic Centre (UTIC)"
+  },
+  {
+    "name": "baby",
+    "namestr": ".baby",
+    "type": "generic",
+    "owner": "XYZ.COM LLC"
+  },
+  {
+    "name": "baidu",
+    "namestr": ".baidu",
+    "type": "generic",
+    "owner": "Baidu, Inc."
+  },
+  {
+    "name": "banamex",
+    "namestr": ".banamex",
+    "type": "generic",
+    "owner": "Citigroup Inc."
+  },
+  {
+    "name": "bananarepublic",
+    "namestr": ".bananarepublic",
+    "type": "generic",
+    "owner": "The Gap, Inc."
+  },
+  {
+    "name": "band",
+    "namestr": ".band",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "bank",
+    "namestr": ".bank",
+    "type": "generic",
+    "owner": "fTLD Registry Services, LLC"
+  },
+  {
+    "name": "bar",
+    "namestr": ".bar",
+    "type": "generic",
+    "owner": "Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable"
+  },
+  {
+    "name": "barcelona",
+    "namestr": ".barcelona",
+    "type": "generic",
+    "owner": "Municipi de Barcelona"
+  },
+  {
+    "name": "barclaycard",
+    "namestr": ".barclaycard",
+    "type": "generic",
+    "owner": "Barclays Bank PLC"
+  },
+  {
+    "name": "barclays",
+    "namestr": ".barclays",
+    "type": "generic",
+    "owner": "Barclays Bank PLC"
+  },
+  {
+    "name": "barefoot",
+    "namestr": ".barefoot",
+    "type": "generic",
+    "owner": "Gallo Vineyards, Inc."
+  },
+  {
+    "name": "bargains",
+    "namestr": ".bargains",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "baseball",
+    "namestr": ".baseball",
+    "type": "generic",
+    "owner": "MLB Advanced Media DH, LLC"
+  },
+  {
+    "name": "basketball",
+    "namestr": ".basketball",
+    "type": "generic",
+    "owner": "Fédération Internationale de Basketball (FIBA)"
+  },
+  {
+    "name": "bauhaus",
+    "namestr": ".bauhaus",
+    "type": "generic",
+    "owner": "Werkhaus GmbH"
+  },
+  {
+    "name": "bayern",
+    "namestr": ".bayern",
+    "type": "generic",
+    "owner": "Bayern Connect GmbH"
+  },
+  {
+    "name": "bb",
+    "namestr": ".bb",
+    "type": "country-code",
+    "owner": "Ministry of Innovation, Science and Smart Technology"
+  },
+  {
+    "name": "bbc",
+    "namestr": ".bbc",
+    "type": "generic",
+    "owner": "British Broadcasting Corporation"
+  },
+  {
+    "name": "bbt",
+    "namestr": ".bbt",
+    "type": "generic",
+    "owner": "BB&amp;T Corporation"
+  },
+  {
+    "name": "bbva",
+    "namestr": ".bbva",
+    "type": "generic",
+    "owner": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A."
+  },
+  {
+    "name": "bcg",
+    "namestr": ".bcg",
+    "type": "generic",
+    "owner": "The Boston Consulting Group, Inc."
+  },
+  {
+    "name": "bcn",
+    "namestr": ".bcn",
+    "type": "generic",
+    "owner": "Municipi de Barcelona"
+  },
+  {
+    "name": "bd",
+    "namestr": ".bd",
+    "type": "country-code",
+    "owner": "Posts and Telecommunications Division"
+  },
+  {
+    "name": "be",
+    "namestr": ".be",
+    "type": "country-code",
+    "owner": "DNS Belgium vzw/asbl"
+  },
+  {
+    "name": "beats",
+    "namestr": ".beats",
+    "type": "generic",
+    "owner": "Beats Electronics, LLC"
+  },
+  {
+    "name": "beauty",
+    "namestr": ".beauty",
+    "type": "generic",
+    "owner": "XYZ.COM LLC"
+  },
+  {
+    "name": "beer",
+    "namestr": ".beer",
+    "type": "generic",
+    "owner": "Registry Services, LLC"
+  },
+  {
+    "name": "bentley",
+    "namestr": ".bentley",
+    "type": "generic",
+    "owner": "Bentley Motors Limited"
+  },
+  {
+    "name": "berlin",
+    "namestr": ".berlin",
+    "type": "generic",
+    "owner": "dotBERLIN GmbH &amp; Co. KG"
+  },
+  {
+    "name": "best",
+    "namestr": ".best",
+    "type": "generic",
+    "owner": "BestTLD Pty Ltd"
+  },
+  {
+    "name": "bestbuy",
+    "namestr": ".bestbuy",
+    "type": "generic",
+    "owner": "BBY Solutions, Inc."
+  },
+  {
+    "name": "bet",
+    "namestr": ".bet",
+    "type": "generic",
+    "owner": "Afilias Limited"
+  },
+  {
+    "name": "bf",
+    "namestr": ".bf",
+    "type": "country-code",
+    "owner": "ARCE-AutoritÈ de RÈgulation des Communications Electroniques"
+  },
+  {
+    "name": "bg",
+    "namestr": ".bg",
+    "type": "country-code",
+    "owner": "Register.BG"
+  },
+  {
+    "name": "bh",
+    "namestr": ".bh",
+    "type": "country-code",
+    "owner": "Telecommunications Regulatory Authority (TRA)"
+  },
+  {
+    "name": "bharti",
+    "namestr": ".bharti",
+    "type": "generic",
+    "owner": "Bharti Enterprises (Holding) Private Limited"
+  },
+  {
+    "name": "bi",
+    "namestr": ".bi",
+    "type": "country-code",
+    "owner": "Centre National de l&#x27;Informatique"
+  },
+  {
+    "name": "bible",
+    "namestr": ".bible",
+    "type": "generic",
+    "owner": "American Bible Society"
+  },
+  {
+    "name": "bid",
+    "namestr": ".bid",
+    "type": "generic",
+    "owner": "dot Bid Limited"
+  },
+  {
+    "name": "bike",
+    "namestr": ".bike",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "bing",
+    "namestr": ".bing",
+    "type": "generic",
+    "owner": "Microsoft Corporation"
+  },
+  {
+    "name": "bingo",
+    "namestr": ".bingo",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "bio",
+    "namestr": ".bio",
+    "type": "generic",
+    "owner": "Afilias Limited"
+  },
+  {
+    "name": "biz",
+    "namestr": ".biz",
+    "type": "generic-restricted",
+    "owner": "Registry Services, LLC"
+  },
+  {
+    "name": "bj",
+    "namestr": ".bj",
+    "type": "country-code",
+    "owner": "Autorité de Régulation des Communications Electroniques et de la Poste du Bénin (ARCEP BENIN)"
+  },
+  {
+    "name": "bl",
+    "namestr": ".bl",
+    "type": "country-code",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "black",
+    "namestr": ".black",
+    "type": "generic",
+    "owner": "Afilias Limited"
+  },
+  {
+    "name": "blackfriday",
+    "namestr": ".blackfriday",
+    "type": "generic",
+    "owner": "Registry Services, LLC"
+  },
+  {
+    "name": "blanco",
+    "namestr": ".blanco",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "blockbuster",
+    "namestr": ".blockbuster",
+    "type": "generic",
+    "owner": "Dish DBS Corporation"
+  },
+  {
+    "name": "blog",
+    "namestr": ".blog",
+    "type": "generic",
+    "owner": "Knock Knock WHOIS There, LLC"
+  },
+  {
+    "name": "bloomberg",
+    "namestr": ".bloomberg",
+    "type": "generic",
+    "owner": "Bloomberg IP Holdings LLC"
+  },
+  {
+    "name": "blue",
+    "namestr": ".blue",
+    "type": "generic",
+    "owner": "Afilias Limited"
+  },
+  {
+    "name": "bm",
+    "namestr": ".bm",
+    "type": "country-code",
+    "owner": "Registry General Department, Ministry of Home Affairs"
+  },
+  {
+    "name": "bms",
+    "namestr": ".bms",
+    "type": "generic",
+    "owner": "Bristol-Myers Squibb Company"
+  },
+  {
+    "name": "bmw",
+    "namestr": ".bmw",
+    "type": "generic",
+    "owner": "Bayerische Motoren Werke Aktiengesellschaft"
+  },
+  {
+    "name": "bn",
+    "namestr": ".bn",
+    "type": "country-code",
+    "owner": "Authority for Info-communications Technology Industry of Brunei Darussalam (AITI)"
+  },
+  {
+    "name": "bnl",
+    "namestr": ".bnl",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "bnpparibas",
+    "namestr": ".bnpparibas",
+    "type": "generic",
+    "owner": "BNP Paribas"
+  },
+  {
+    "name": "bo",
+    "namestr": ".bo",
+    "type": "country-code",
+    "owner": "Agencia para el Desarrollo de la Información de la Sociedad en Bolivia"
+  },
+  {
+    "name": "boats",
+    "namestr": ".boats",
+    "type": "generic",
+    "owner": "XYZ.COM LLC"
+  },
+  {
+    "name": "boehringer",
+    "namestr": ".boehringer",
+    "type": "generic",
+    "owner": "Boehringer Ingelheim International GmbH"
+  },
+  {
+    "name": "bofa",
+    "namestr": ".bofa",
+    "type": "generic",
+    "owner": "Bank of America Corporation"
+  },
+  {
+    "name": "bom",
+    "namestr": ".bom",
+    "type": "generic",
+    "owner": "Núcleo de Informação e Coordenação do Ponto BR - NIC.br"
+  },
+  {
+    "name": "bond",
+    "namestr": ".bond",
+    "type": "generic",
+    "owner": "Shortdot SA"
+  },
+  {
+    "name": "boo",
+    "namestr": ".boo",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "book",
+    "namestr": ".book",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "booking",
+    "namestr": ".booking",
+    "type": "generic",
+    "owner": "Booking.com B.V."
+  },
+  {
+    "name": "boots",
+    "namestr": ".boots",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "bosch",
+    "namestr": ".bosch",
+    "type": "generic",
+    "owner": "Robert Bosch GMBH"
+  },
+  {
+    "name": "bostik",
+    "namestr": ".bostik",
+    "type": "generic",
+    "owner": "Bostik SA"
+  },
+  {
+    "name": "boston",
+    "namestr": ".boston",
+    "type": "generic",
+    "owner": "Registry Services, LLC"
+  },
+  {
+    "name": "bot",
+    "namestr": ".bot",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "boutique",
+    "namestr": ".boutique",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "box",
+    "namestr": ".box",
+    "type": "generic",
+    "owner": "Intercap Registry Inc."
+  },
+  {
+    "name": "bq",
+    "namestr": ".bq",
+    "type": "country-code",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "br",
+    "namestr": ".br",
+    "type": "country-code",
+    "owner": "Comite Gestor da Internet no Brasil"
+  },
+  {
+    "name": "bradesco",
+    "namestr": ".bradesco",
+    "type": "generic",
+    "owner": "Banco Bradesco S.A."
+  },
+  {
+    "name": "bridgestone",
+    "namestr": ".bridgestone",
+    "type": "generic",
+    "owner": "Bridgestone Corporation"
+  },
+  {
+    "name": "broadway",
+    "namestr": ".broadway",
+    "type": "generic",
+    "owner": "Celebrate Broadway, Inc."
+  },
+  {
+    "name": "broker",
+    "namestr": ".broker",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "brother",
+    "namestr": ".brother",
+    "type": "generic",
+    "owner": "Brother Industries, Ltd."
+  },
+  {
+    "name": "brussels",
+    "namestr": ".brussels",
+    "type": "generic",
+    "owner": "DNS.be vzw"
+  },
+  {
+    "name": "bs",
+    "namestr": ".bs",
+    "type": "country-code",
+    "owner": "University of The Bahamas"
+  },
+  {
+    "name": "bt",
+    "namestr": ".bt",
+    "type": "country-code",
+    "owner": "Ministry of Information and Communications"
+  },
+  {
+    "name": "budapest",
+    "namestr": ".budapest",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "bugatti",
+    "namestr": ".bugatti",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "build",
+    "namestr": ".build",
+    "type": "generic",
+    "owner": "Plan Bee LLC"
+  },
+  {
+    "name": "builders",
+    "namestr": ".builders",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "business",
+    "namestr": ".business",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "buy",
+    "namestr": ".buy",
+    "type": "generic",
+    "owner": "Amazon Registry Services, INC"
+  },
+  {
+    "name": "buzz",
+    "namestr": ".buzz",
+    "type": "generic",
+    "owner": "DOTSTRATEGY CO."
+  },
+  {
+    "name": "bv",
+    "namestr": ".bv",
+    "type": "country-code",
+    "owner": "Norid A/S"
+  },
+  {
+    "name": "bw",
+    "namestr": ".bw",
+    "type": "country-code",
+    "owner": "Botswana Communications Regulatory Authority (BOCRA)"
+  },
+  {
+    "name": "by",
+    "namestr": ".by",
+    "type": "country-code",
+    "owner": "Belarusian Cloud Technologies LLC"
+  },
+  {
+    "name": "bz",
+    "namestr": ".bz",
+    "type": "country-code",
+    "owner": "University of Belize"
+  },
+  {
+    "name": "bzh",
+    "namestr": ".bzh",
+    "type": "generic",
+    "owner": "Association www.bzh"
+  },
+  {
+    "name": "ca",
+    "namestr": ".ca",
+    "type": "country-code",
+    "owner": "Canadian Internet Registration Authority (CIRA) Autorité Canadienne pour les enregistrements Internet (ACEI)"
+  },
+  {
+    "name": "cab",
+    "namestr": ".cab",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "cafe",
+    "namestr": ".cafe",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "cal",
+    "namestr": ".cal",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "call",
+    "namestr": ".call",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "calvinklein",
+    "namestr": ".calvinklein",
+    "type": "generic",
+    "owner": "PVH gTLD Holdings LLC"
+  },
+  {
+    "name": "cam",
+    "namestr": ".cam",
+    "type": "generic",
+    "owner": "CAM Connecting SARL"
+  },
+  {
+    "name": "camera",
+    "namestr": ".camera",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "camp",
+    "namestr": ".camp",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "cancerresearch",
+    "namestr": ".cancerresearch",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "canon",
+    "namestr": ".canon",
+    "type": "generic",
+    "owner": "Canon Inc."
+  },
+  {
+    "name": "capetown",
+    "namestr": ".capetown",
+    "type": "generic",
+    "owner": "ZA Central Registry NPC trading as ZA Central Registry"
+  },
+  {
+    "name": "capital",
+    "namestr": ".capital",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "capitalone",
+    "namestr": ".capitalone",
+    "type": "generic",
+    "owner": "Capital One Financial Corporation"
+  },
+  {
+    "name": "car",
+    "namestr": ".car",
+    "type": "generic",
+    "owner": "XYZ.COM LLC"
+  },
+  {
+    "name": "caravan",
+    "namestr": ".caravan",
+    "type": "generic",
+    "owner": "Caravan International, Inc."
+  },
+  {
+    "name": "cards",
+    "namestr": ".cards",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "care",
+    "namestr": ".care",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "career",
+    "namestr": ".career",
+    "type": "generic",
+    "owner": "dotCareer LLC"
+  },
+  {
+    "name": "careers",
+    "namestr": ".careers",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "cars",
+    "namestr": ".cars",
+    "type": "generic",
+    "owner": "XYZ.COM LLC"
+  },
+  {
+    "name": "cartier",
+    "namestr": ".cartier",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "casa",
+    "namestr": ".casa",
+    "type": "generic",
+    "owner": "Registry Services, LLC"
+  },
+  {
+    "name": "case",
+    "namestr": ".case",
+    "type": "generic",
+    "owner": "Digity, LLC"
+  },
+  {
+    "name": "caseih",
+    "namestr": ".caseih",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "cash",
+    "namestr": ".cash",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "casino",
+    "namestr": ".casino",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "cat",
+    "namestr": ".cat",
+    "type": "sponsored",
+    "owner": "Fundacio puntCAT"
+  },
+  {
+    "name": "catering",
+    "namestr": ".catering",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "catholic",
+    "namestr": ".catholic",
+    "type": "generic",
+    "owner": "Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)"
+  },
+  {
+    "name": "cba",
+    "namestr": ".cba",
+    "type": "generic",
+    "owner": "COMMONWEALTH BANK OF AUSTRALIA"
+  },
+  {
+    "name": "cbn",
+    "namestr": ".cbn",
+    "type": "generic",
+    "owner": "The Christian Broadcasting Network, Inc."
+  },
+  {
+    "name": "cbre",
+    "namestr": ".cbre",
+    "type": "generic",
+    "owner": "CBRE, Inc."
+  },
+  {
+    "name": "cbs",
+    "namestr": ".cbs",
+    "type": "generic",
+    "owner": "CBS Domains Inc."
+  },
+  {
+    "name": "cd",
+    "namestr": ".cd",
+    "type": "country-code",
+    "owner": "Office Congolais des Postes et Télécommunications - OCPT"
+  },
+  {
+    "name": "ceb",
+    "namestr": ".ceb",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "center",
+    "namestr": ".center",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "ceo",
+    "namestr": ".ceo",
+    "type": "generic",
+    "owner": "CEOTLD Pty Ltd"
+  },
+  {
+    "name": "cern",
+    "namestr": ".cern",
+    "type": "generic",
+    "owner": "European Organization for Nuclear Research (&quot;CERN&quot;)"
+  },
+  {
+    "name": "cf",
+    "namestr": ".cf",
+    "type": "country-code",
+    "owner": "Societe Centrafricaine de Telecommunications (SOCATEL)"
+  },
+  {
+    "name": "cfa",
+    "namestr": ".cfa",
+    "type": "generic",
+    "owner": "CFA Institute"
+  },
+  {
+    "name": "cfd",
+    "namestr": ".cfd",
+    "type": "generic",
+    "owner": "DOTCFD REGISTRY LTD"
+  },
+  {
+    "name": "cg",
+    "namestr": ".cg",
+    "type": "country-code",
+    "owner": "Interpoint Switzerland"
+  },
+  {
+    "name": "ch",
+    "namestr": ".ch",
+    "type": "country-code",
+    "owner": "SWITCH The Swiss Education &amp; Research Network"
+  },
+  {
+    "name": "chanel",
+    "namestr": ".chanel",
+    "type": "generic",
+    "owner": "Chanel International B.V."
+  },
+  {
+    "name": "channel",
+    "namestr": ".channel",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "charity",
+    "namestr": ".charity",
+    "type": "generic",
+    "owner": "Public Interest Registry (PIR)"
+  },
+  {
+    "name": "chase",
+    "namestr": ".chase",
+    "type": "generic",
+    "owner": "JPMorgan Chase Bank, National Association"
+  },
+  {
+    "name": "chat",
+    "namestr": ".chat",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "cheap",
+    "namestr": ".cheap",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "chintai",
+    "namestr": ".chintai",
+    "type": "generic",
+    "owner": "CHINTAI Corporation"
+  },
+  {
+    "name": "chloe",
+    "namestr": ".chloe",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "christmas",
+    "namestr": ".christmas",
+    "type": "generic",
+    "owner": "XYZ.COM LLC"
+  },
+  {
+    "name": "chrome",
+    "namestr": ".chrome",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "chrysler",
+    "namestr": ".chrysler",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "church",
+    "namestr": ".church",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "ci",
+    "namestr": ".ci",
+    "type": "country-code",
+    "owner": "Autorité de Régulation des Télécommunications/TIC de Côte d’lvoire (ARTCI)"
+  },
+  {
+    "name": "cipriani",
+    "namestr": ".cipriani",
+    "type": "generic",
+    "owner": "Hotel Cipriani Srl"
+  },
+  {
+    "name": "circle",
+    "namestr": ".circle",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "cisco",
+    "namestr": ".cisco",
+    "type": "generic",
+    "owner": "Cisco Technology, Inc."
+  },
+  {
+    "name": "citadel",
+    "namestr": ".citadel",
+    "type": "generic",
+    "owner": "Citadel Domain LLC"
+  },
+  {
+    "name": "citi",
+    "namestr": ".citi",
+    "type": "generic",
+    "owner": "Citigroup Inc."
+  },
+  {
+    "name": "citic",
+    "namestr": ".citic",
+    "type": "generic",
+    "owner": "CITIC Group Corporation"
+  },
+  {
+    "name": "city",
+    "namestr": ".city",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "cityeats",
+    "namestr": ".cityeats",
+    "type": "generic",
+    "owner": "Lifestyle Domain Holdings, Inc."
+  },
+  {
+    "name": "ck",
+    "namestr": ".ck",
+    "type": "country-code",
+    "owner": "Telecom Cook Islands Ltd."
+  },
+  {
+    "name": "cl",
+    "namestr": ".cl",
+    "type": "country-code",
+    "owner": "NIC Chile (University of Chile)"
+  },
+  {
+    "name": "claims",
+    "namestr": ".claims",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "cleaning",
+    "namestr": ".cleaning",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "click",
+    "namestr": ".click",
+    "type": "generic",
+    "owner": "Internet Naming Co."
+  },
+  {
+    "name": "clinic",
+    "namestr": ".clinic",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "clinique",
+    "namestr": ".clinique",
+    "type": "generic",
+    "owner": "The Estée Lauder Companies Inc."
+  },
+  {
+    "name": "clothing",
+    "namestr": ".clothing",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "cloud",
+    "namestr": ".cloud",
+    "type": "generic",
+    "owner": "ARUBA PEC S.p.A."
+  },
+  {
+    "name": "club",
+    "namestr": ".club",
+    "type": "generic",
+    "owner": "Registry Services, LLC"
+  },
+  {
+    "name": "clubmed",
+    "namestr": ".clubmed",
+    "type": "generic",
+    "owner": "Club Méditerranée S.A."
+  },
+  {
+    "name": "cm",
+    "namestr": ".cm",
+    "type": "country-code",
+    "owner": "Cameroon Telecommunications (CAMTEL)"
+  },
+  {
+    "name": "cn",
+    "namestr": ".cn",
+    "type": "country-code",
+    "owner": "China Internet Network Information Center (CNNIC)"
+  },
+  {
+    "name": "co",
+    "namestr": ".co",
+    "type": "country-code",
+    "owner": "Ministry of Information and Communications Technologies (MinTIC)"
+  },
+  {
+    "name": "coach",
+    "namestr": ".coach",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "codes",
+    "namestr": ".codes",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "coffee",
+    "namestr": ".coffee",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "college",
+    "namestr": ".college",
+    "type": "generic",
+    "owner": "XYZ.COM LLC"
+  },
+  {
+    "name": "cologne",
+    "namestr": ".cologne",
+    "type": "generic",
+    "owner": "dotKoeln GmbH"
+  },
+  {
+    "name": "com",
+    "namestr": ".com",
+    "type": "generic",
+    "owner": "VeriSign Global Registry Services"
+  },
+  {
+    "name": "comcast",
+    "namestr": ".comcast",
+    "type": "generic",
+    "owner": "Comcast IP Holdings I, LLC"
+  },
+  {
+    "name": "commbank",
+    "namestr": ".commbank",
+    "type": "generic",
+    "owner": "COMMONWEALTH BANK OF AUSTRALIA"
+  },
+  {
+    "name": "community",
+    "namestr": ".community",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "company",
+    "namestr": ".company",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "compare",
+    "namestr": ".compare",
+    "type": "generic",
+    "owner": "Registry Services, LLC"
+  },
+  {
+    "name": "computer",
+    "namestr": ".computer",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "comsec",
+    "namestr": ".comsec",
+    "type": "generic",
+    "owner": "VeriSign, Inc."
+  },
+  {
+    "name": "condos",
+    "namestr": ".condos",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "construction",
+    "namestr": ".construction",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "consulting",
+    "namestr": ".consulting",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "contact",
+    "namestr": ".contact",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "contractors",
+    "namestr": ".contractors",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "cooking",
+    "namestr": ".cooking",
+    "type": "generic",
+    "owner": "Registry Services, LLC"
+  },
+  {
+    "name": "cookingchannel",
+    "namestr": ".cookingchannel",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "cool",
+    "namestr": ".cool",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "coop",
+    "namestr": ".coop",
+    "type": "sponsored",
+    "owner": "DotCooperation LLC"
+  },
+  {
+    "name": "corsica",
+    "namestr": ".corsica",
+    "type": "generic",
+    "owner": "Collectivité de Corse"
+  },
+  {
+    "name": "country",
+    "namestr": ".country",
+    "type": "generic",
+    "owner": "Internet Naming Co."
+  },
+  {
+    "name": "coupon",
+    "namestr": ".coupon",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "coupons",
+    "namestr": ".coupons",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "courses",
+    "namestr": ".courses",
+    "type": "generic",
+    "owner": "Registry Services, LLC"
+  },
+  {
+    "name": "cpa",
+    "namestr": ".cpa",
+    "type": "generic",
+    "owner": "American Institute of Certified Public Accountants"
+  },
+  {
+    "name": "credit",
+    "namestr": ".credit",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "creditcard",
+    "namestr": ".creditcard",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "creditunion",
+    "namestr": ".creditunion",
+    "type": "generic",
+    "owner": "DotCooperation, LLC"
+  },
+  {
+    "name": "cricket",
+    "namestr": ".cricket",
+    "type": "generic",
+    "owner": "dot Cricket Limited"
+  },
+  {
+    "name": "crown",
+    "namestr": ".crown",
+    "type": "generic",
+    "owner": "Crown Equipment Corporation"
+  },
+  {
+    "name": "crs",
+    "namestr": ".crs",
+    "type": "generic",
+    "owner": "Federated Co-operatives Limited"
+  },
+  {
+    "name": "cruise",
+    "namestr": ".cruise",
+    "type": "generic",
+    "owner": "Viking River Cruises (Bermuda) Ltd."
+  },
+  {
+    "name": "cruises",
+    "namestr": ".cruises",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "csc",
+    "namestr": ".csc",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "cuisinella",
+    "namestr": ".cuisinella",
+    "type": "generic",
+    "owner": "SCHMIDT GROUPE S.A.S."
+  },
+  {
+    "name": "cv",
+    "namestr": ".cv",
+    "type": "country-code",
+    "owner": "Agência Reguladora Multissectorial da Economia (ARME)"
+  },
+  {
+    "name": "cw",
+    "namestr": ".cw",
+    "type": "country-code",
+    "owner": "University of Curacao"
+  },
+  {
+    "name": "cx",
+    "namestr": ".cx",
+    "type": "country-code",
+    "owner": "Christmas Island Domain Administration Limited"
+  },
+  {
+    "name": "cy",
+    "namestr": ".cy",
+    "type": "country-code",
+    "owner": "University of Cyprus"
+  },
+  {
+    "name": "cymru",
+    "namestr": ".cymru",
+    "type": "generic",
+    "owner": "Nominet UK"
+  },
+  {
+    "name": "cyou",
+    "namestr": ".cyou",
+    "type": "generic",
+    "owner": "Shortdot SA"
+  },
+  {
+    "name": "cz",
+    "namestr": ".cz",
+    "type": "country-code",
+    "owner": "CZ.NIC, z.s.p.o"
+  },
+  {
+    "name": "dabur",
+    "namestr": ".dabur",
+    "type": "generic",
+    "owner": "Dabur India Limited"
+  },
+  {
+    "name": "dad",
+    "namestr": ".dad",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "dance",
+    "namestr": ".dance",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "data",
+    "namestr": ".data",
+    "type": "generic",
+    "owner": "Dish DBS Corporation"
+  },
+  {
+    "name": "date",
+    "namestr": ".date",
+    "type": "generic",
+    "owner": "dot Date Limited"
+  },
+  {
+    "name": "dating",
+    "namestr": ".dating",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "datsun",
+    "namestr": ".datsun",
+    "type": "generic",
+    "owner": "NISSAN MOTOR CO., LTD."
+  },
+  {
+    "name": "day",
+    "namestr": ".day",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "dclk",
+    "namestr": ".dclk",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "dds",
+    "namestr": ".dds",
+    "type": "generic",
+    "owner": "Registry Services, LLC"
+  },
+  {
+    "name": "de",
+    "namestr": ".de",
+    "type": "country-code",
+    "owner": "DENIC eG"
+  },
+  {
+    "name": "deal",
+    "namestr": ".deal",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "dealer",
+    "namestr": ".dealer",
+    "type": "generic",
+    "owner": "Intercap Registry Inc."
+  },
+  {
+    "name": "deals",
+    "namestr": ".deals",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "degree",
+    "namestr": ".degree",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "delivery",
+    "namestr": ".delivery",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "dell",
+    "namestr": ".dell",
+    "type": "generic",
+    "owner": "Dell Inc."
+  },
+  {
+    "name": "deloitte",
+    "namestr": ".deloitte",
+    "type": "generic",
+    "owner": "Deloitte Touche Tohmatsu"
+  },
+  {
+    "name": "delta",
+    "namestr": ".delta",
+    "type": "generic",
+    "owner": "Delta Air Lines, Inc."
+  },
+  {
+    "name": "democrat",
+    "namestr": ".democrat",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "dental",
+    "namestr": ".dental",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "dentist",
+    "namestr": ".dentist",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "desi",
+    "namestr": ".desi",
+    "type": "generic",
+    "owner": "Desi Networks LLC"
+  },
+  {
+    "name": "design",
+    "namestr": ".design",
+    "type": "generic",
+    "owner": "Registry Services, LLC"
+  },
+  {
+    "name": "dev",
+    "namestr": ".dev",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "dhl",
+    "namestr": ".dhl",
+    "type": "generic",
+    "owner": "Deutsche Post AG"
+  },
+  {
+    "name": "diamonds",
+    "namestr": ".diamonds",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "diet",
+    "namestr": ".diet",
+    "type": "generic",
+    "owner": "XYZ.COM LLC"
+  },
+  {
+    "name": "digital",
+    "namestr": ".digital",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "direct",
+    "namestr": ".direct",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "directory",
+    "namestr": ".directory",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "discount",
+    "namestr": ".discount",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "discover",
+    "namestr": ".discover",
+    "type": "generic",
+    "owner": "Discover Financial Services"
+  },
+  {
+    "name": "dish",
+    "namestr": ".dish",
+    "type": "generic",
+    "owner": "Dish DBS Corporation"
+  },
+  {
+    "name": "diy",
+    "namestr": ".diy",
+    "type": "generic",
+    "owner": "Lifestyle Domain Holdings, Inc."
+  },
+  {
+    "name": "dj",
+    "namestr": ".dj",
+    "type": "country-code",
+    "owner": "Djibouti Telecom S.A"
+  },
+  {
+    "name": "dk",
+    "namestr": ".dk",
+    "type": "country-code",
+    "owner": "Dansk Internet Forum"
+  },
+  {
+    "name": "dm",
+    "namestr": ".dm",
+    "type": "country-code",
+    "owner": "DotDM Corporation"
+  },
+  {
+    "name": "dnp",
+    "namestr": ".dnp",
+    "type": "generic",
+    "owner": "Dai Nippon Printing Co., Ltd."
+  },
+  {
+    "name": "docs",
+    "namestr": ".docs",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "doctor",
+    "namestr": ".doctor",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "dodge",
+    "namestr": ".dodge",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "dog",
+    "namestr": ".dog",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "doha",
+    "namestr": ".doha",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "domains",
+    "namestr": ".domains",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "doosan",
+    "namestr": ".doosan",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "dot",
+    "namestr": ".dot",
+    "type": "generic",
+    "owner": "Dish DBS Corporation"
+  },
+  {
+    "name": "download",
+    "namestr": ".download",
+    "type": "generic",
+    "owner": "dot Support Limited"
+  },
+  {
+    "name": "drive",
+    "namestr": ".drive",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "dtv",
+    "namestr": ".dtv",
+    "type": "generic",
+    "owner": "Dish DBS Corporation"
+  },
+  {
+    "name": "dubai",
+    "namestr": ".dubai",
+    "type": "generic",
+    "owner": "Dubai Smart Government Department"
+  },
+  {
+    "name": "duck",
+    "namestr": ".duck",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "dunlop",
+    "namestr": ".dunlop",
+    "type": "generic",
+    "owner": "The Goodyear Tire &amp; Rubber Company"
+  },
+  {
+    "name": "duns",
+    "namestr": ".duns",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "dupont",
+    "namestr": ".dupont",
+    "type": "generic",
+    "owner": "DuPont Specialty Products USA, LLC"
+  },
+  {
+    "name": "durban",
+    "namestr": ".durban",
+    "type": "generic",
+    "owner": "ZA Central Registry NPC trading as ZA Central Registry"
+  },
+  {
+    "name": "dvag",
+    "namestr": ".dvag",
+    "type": "generic",
+    "owner": "Deutsche Vermögensberatung Aktiengesellschaft DVAG"
+  },
+  {
+    "name": "dvr",
+    "namestr": ".dvr",
+    "type": "generic",
+    "owner": "Hughes Satellite Systems Corporation"
+  },
+  {
+    "name": "dz",
+    "namestr": ".dz",
+    "type": "country-code",
+    "owner": "CERIST"
+  },
+  {
+    "name": "earth",
+    "namestr": ".earth",
+    "type": "generic",
+    "owner": "Interlink Systems Innovation Institute K.K."
+  },
+  {
+    "name": "eat",
+    "namestr": ".eat",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "ec",
+    "namestr": ".ec",
+    "type": "country-code",
+    "owner": "ECUADORDOMAIN S.A."
+  },
+  {
+    "name": "eco",
+    "namestr": ".eco",
+    "type": "generic",
+    "owner": "Big Room Inc."
+  },
+  {
+    "name": "edeka",
+    "namestr": ".edeka",
+    "type": "generic",
+    "owner": "EDEKA Verband kaufmännischer Genossenschaften e.V."
+  },
+  {
+    "name": "edu",
+    "namestr": ".edu",
+    "type": "sponsored",
+    "owner": "EDUCAUSE"
+  },
+  {
+    "name": "education",
+    "namestr": ".education",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "ee",
+    "namestr": ".ee",
+    "type": "country-code",
+    "owner": "Eesti Interneti Sihtasutus (EIS)"
+  },
+  {
+    "name": "eh",
+    "namestr": ".eh",
+    "type": "country-code",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "email",
+    "namestr": ".email",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "emerck",
+    "namestr": ".emerck",
+    "type": "generic",
+    "owner": "Merck KGaA"
+  },
+  {
+    "name": "energy",
+    "namestr": ".energy",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "engineer",
+    "namestr": ".engineer",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "engineering",
+    "namestr": ".engineering",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "enterprises",
+    "namestr": ".enterprises",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "epost",
+    "namestr": ".epost",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "epson",
+    "namestr": ".epson",
+    "type": "generic",
+    "owner": "Seiko Epson Corporation"
+  },
+  {
+    "name": "equipment",
+    "namestr": ".equipment",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "er",
+    "namestr": ".er",
+    "type": "country-code",
+    "owner": "Eritrea Telecommunication Services Corporation (EriTel)"
+  },
+  {
+    "name": "ericsson",
+    "namestr": ".ericsson",
+    "type": "generic",
+    "owner": "Telefonaktiebolaget L M Ericsson"
+  },
+  {
+    "name": "erni",
+    "namestr": ".erni",
+    "type": "generic",
+    "owner": "ERNI Group Holding AG"
+  },
+  {
+    "name": "es",
+    "namestr": ".es",
+    "type": "country-code",
+    "owner": "Red.es"
+  },
+  {
+    "name": "esq",
+    "namestr": ".esq",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "estate",
+    "namestr": ".estate",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "esurance",
+    "namestr": ".esurance",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "et",
+    "namestr": ".et",
+    "type": "country-code",
+    "owner": "Ethio telecom"
+  },
+  {
+    "name": "etisalat",
+    "namestr": ".etisalat",
+    "type": "generic",
+    "owner": "Emirates Telecommunications Corporation (trading as Etisalat)"
+  },
+  {
+    "name": "eu",
+    "namestr": ".eu",
+    "type": "country-code",
+    "owner": "EURid vzw/asbl"
+  },
+  {
+    "name": "eurovision",
+    "namestr": ".eurovision",
+    "type": "generic",
+    "owner": "European Broadcasting Union (EBU)"
+  },
+  {
+    "name": "eus",
+    "namestr": ".eus",
+    "type": "generic",
+    "owner": "Puntueus Fundazioa"
+  },
+  {
+    "name": "events",
+    "namestr": ".events",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "everbank",
+    "namestr": ".everbank",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "exchange",
+    "namestr": ".exchange",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "expert",
+    "namestr": ".expert",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "exposed",
+    "namestr": ".exposed",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "express",
+    "namestr": ".express",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "extraspace",
+    "namestr": ".extraspace",
+    "type": "generic",
+    "owner": "Extra Space Storage LLC"
+  },
+  {
+    "name": "fage",
+    "namestr": ".fage",
+    "type": "generic",
+    "owner": "Fage International S.A."
+  },
+  {
+    "name": "fail",
+    "namestr": ".fail",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "fairwinds",
+    "namestr": ".fairwinds",
+    "type": "generic",
+    "owner": "FairWinds Partners, LLC"
+  },
+  {
+    "name": "faith",
+    "namestr": ".faith",
+    "type": "generic",
+    "owner": "dot Faith Limited"
+  },
+  {
+    "name": "family",
+    "namestr": ".family",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "fan",
+    "namestr": ".fan",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "fans",
+    "namestr": ".fans",
+    "type": "generic",
+    "owner": "ZDNS International Limited"
+  },
+  {
+    "name": "farm",
+    "namestr": ".farm",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "farmers",
+    "namestr": ".farmers",
+    "type": "generic",
+    "owner": "Farmers Insurance Exchange"
+  },
+  {
+    "name": "fashion",
+    "namestr": ".fashion",
+    "type": "generic",
+    "owner": "Registry Services, LLC"
+  },
+  {
+    "name": "fast",
+    "namestr": ".fast",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "fedex",
+    "namestr": ".fedex",
+    "type": "generic",
+    "owner": "Federal Express Corporation"
+  },
+  {
+    "name": "feedback",
+    "namestr": ".feedback",
+    "type": "generic",
+    "owner": "Top Level Spectrum, Inc."
+  },
+  {
+    "name": "ferrari",
+    "namestr": ".ferrari",
+    "type": "generic",
+    "owner": "Fiat Chrysler Automobiles N.V."
+  },
+  {
+    "name": "ferrero",
+    "namestr": ".ferrero",
+    "type": "generic",
+    "owner": "Ferrero Trading Lux S.A."
+  },
+  {
+    "name": "fi",
+    "namestr": ".fi",
+    "type": "country-code",
+    "owner": "Finnish Transport and Communications Agency Traficom"
+  },
+  {
+    "name": "fiat",
+    "namestr": ".fiat",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "fidelity",
+    "namestr": ".fidelity",
+    "type": "generic",
+    "owner": "Fidelity Brokerage Services LLC"
+  },
+  {
+    "name": "fido",
+    "namestr": ".fido",
+    "type": "generic",
+    "owner": "Rogers Communications Canada Inc."
+  },
+  {
+    "name": "film",
+    "namestr": ".film",
+    "type": "generic",
+    "owner": "Motion Picture Domain Registry Pty Ltd"
+  },
+  {
+    "name": "final",
+    "namestr": ".final",
+    "type": "generic",
+    "owner": "Núcleo de Informação e Coordenação do Ponto BR - NIC.br"
+  },
+  {
+    "name": "finance",
+    "namestr": ".finance",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "financial",
+    "namestr": ".financial",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "fire",
+    "namestr": ".fire",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "firestone",
+    "namestr": ".firestone",
+    "type": "generic",
+    "owner": "Bridgestone Licensing Services, Inc."
+  },
+  {
+    "name": "firmdale",
+    "namestr": ".firmdale",
+    "type": "generic",
+    "owner": "Firmdale Holdings Limited"
+  },
+  {
+    "name": "fish",
+    "namestr": ".fish",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "fishing",
+    "namestr": ".fishing",
+    "type": "generic",
+    "owner": "Registry Services, LLC"
+  },
+  {
+    "name": "fit",
+    "namestr": ".fit",
+    "type": "generic",
+    "owner": "Registry Services, LLC"
+  },
+  {
+    "name": "fitness",
+    "namestr": ".fitness",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "fk",
+    "namestr": ".fk",
+    "type": "country-code",
+    "owner": "Falkland Islands Government"
+  },
+  {
+    "name": "flickr",
+    "namestr": ".flickr",
+    "type": "generic",
+    "owner": "Flickr, Inc."
+  },
+  {
+    "name": "flights",
+    "namestr": ".flights",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "flir",
+    "namestr": ".flir",
+    "type": "generic",
+    "owner": "FLIR Systems, Inc."
+  },
+  {
+    "name": "florist",
+    "namestr": ".florist",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "flowers",
+    "namestr": ".flowers",
+    "type": "generic",
+    "owner": "XYZ.COM LLC"
+  },
+  {
+    "name": "flsmidth",
+    "namestr": ".flsmidth",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "fly",
+    "namestr": ".fly",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "fm",
+    "namestr": ".fm",
+    "type": "country-code",
+    "owner": "FSM Telecommunications Corporation"
+  },
+  {
+    "name": "fo",
+    "namestr": ".fo",
+    "type": "country-code",
+    "owner": "FO Council"
+  },
+  {
+    "name": "foo",
+    "namestr": ".foo",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "food",
+    "namestr": ".food",
+    "type": "generic",
+    "owner": "Lifestyle Domain Holdings, Inc."
+  },
+  {
+    "name": "foodnetwork",
+    "namestr": ".foodnetwork",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "football",
+    "namestr": ".football",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "ford",
+    "namestr": ".ford",
+    "type": "generic",
+    "owner": "Ford Motor Company"
+  },
+  {
+    "name": "forex",
+    "namestr": ".forex",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "forsale",
+    "namestr": ".forsale",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "forum",
+    "namestr": ".forum",
+    "type": "generic",
+    "owner": "Fegistry, LLC"
+  },
+  {
+    "name": "foundation",
+    "namestr": ".foundation",
+    "type": "generic",
+    "owner": "Public Interest Registry (PIR)"
+  },
+  {
+    "name": "fox",
+    "namestr": ".fox",
+    "type": "generic",
+    "owner": "FOX Registry, LLC"
+  },
+  {
+    "name": "fr",
+    "namestr": ".fr",
+    "type": "country-code",
+    "owner": "Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)"
+  },
+  {
+    "name": "free",
+    "namestr": ".free",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "fresenius",
+    "namestr": ".fresenius",
+    "type": "generic",
+    "owner": "Fresenius Immobilien-Verwaltungs-GmbH"
+  },
+  {
+    "name": "frl",
+    "namestr": ".frl",
+    "type": "generic",
+    "owner": "FRLregistry B.V."
+  },
+  {
+    "name": "frogans",
+    "namestr": ".frogans",
+    "type": "generic",
+    "owner": "OP3FT"
+  },
+  {
+    "name": "frontdoor",
+    "namestr": ".frontdoor",
+    "type": "generic",
+    "owner": "Lifestyle Domain Holdings, Inc."
+  },
+  {
+    "name": "frontier",
+    "namestr": ".frontier",
+    "type": "generic",
+    "owner": "Frontier Communications Corporation"
+  },
+  {
+    "name": "ftr",
+    "namestr": ".ftr",
+    "type": "generic",
+    "owner": "Frontier Communications Corporation"
+  },
+  {
+    "name": "fujitsu",
+    "namestr": ".fujitsu",
+    "type": "generic",
+    "owner": "Fujitsu Limited"
+  },
+  {
+    "name": "fujixerox",
+    "namestr": ".fujixerox",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "fun",
+    "namestr": ".fun",
+    "type": "generic",
+    "owner": "Radix FZC"
+  },
+  {
+    "name": "fund",
+    "namestr": ".fund",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "furniture",
+    "namestr": ".furniture",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "futbol",
+    "namestr": ".futbol",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "fyi",
+    "namestr": ".fyi",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "ga",
+    "namestr": ".ga",
+    "type": "country-code",
+    "owner": "Agence Nationale des Infrastructures Numériques et des Fréquences (ANINF)"
+  },
+  {
+    "name": "gal",
+    "namestr": ".gal",
+    "type": "generic",
+    "owner": "Asociación puntoGAL"
+  },
+  {
+    "name": "gallery",
+    "namestr": ".gallery",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "gallo",
+    "namestr": ".gallo",
+    "type": "generic",
+    "owner": "Gallo Vineyards, Inc."
+  },
+  {
+    "name": "gallup",
+    "namestr": ".gallup",
+    "type": "generic",
+    "owner": "Gallup, Inc."
+  },
+  {
+    "name": "game",
+    "namestr": ".game",
+    "type": "generic",
+    "owner": "XYZ.COM LLC"
+  },
+  {
+    "name": "games",
+    "namestr": ".games",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "gap",
+    "namestr": ".gap",
+    "type": "generic",
+    "owner": "The Gap, Inc."
+  },
+  {
+    "name": "garden",
+    "namestr": ".garden",
+    "type": "generic",
+    "owner": "Registry Services, LLC"
+  },
+  {
+    "name": "gay",
+    "namestr": ".gay",
+    "type": "generic",
+    "owner": "Registry Services, LLC"
+  },
+  {
+    "name": "gb",
+    "namestr": ".gb",
+    "type": "country-code",
+    "owner": "Reserved Domain - IANA"
+  },
+  {
+    "name": "gbiz",
+    "namestr": ".gbiz",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "gd",
+    "namestr": ".gd",
+    "type": "country-code",
+    "owner": "The National Telecommunications Regulatory Commission (NTRC)"
+  },
+  {
+    "name": "gdn",
+    "namestr": ".gdn",
+    "type": "generic",
+    "owner": "Joint Stock Company &quot;Navigation-information systems&quot;"
+  },
+  {
+    "name": "ge",
+    "namestr": ".ge",
+    "type": "country-code",
+    "owner": "Caucasus Online LLC"
+  },
+  {
+    "name": "gea",
+    "namestr": ".gea",
+    "type": "generic",
+    "owner": "GEA Group Aktiengesellschaft"
+  },
+  {
+    "name": "gent",
+    "namestr": ".gent",
+    "type": "generic",
+    "owner": "Combell nv"
+  },
+  {
+    "name": "genting",
+    "namestr": ".genting",
+    "type": "generic",
+    "owner": "Resorts World Inc. Pte. Ltd."
+  },
+  {
+    "name": "george",
+    "namestr": ".george",
+    "type": "generic",
+    "owner": "Wal-Mart Stores, Inc."
+  },
+  {
+    "name": "gf",
+    "namestr": ".gf",
+    "type": "country-code",
+    "owner": "CANAL+ TELECOM"
+  },
+  {
+    "name": "gg",
+    "namestr": ".gg",
+    "type": "country-code",
+    "owner": "Island Networks Ltd."
+  },
+  {
+    "name": "ggee",
+    "namestr": ".ggee",
+    "type": "generic",
+    "owner": "GMO Internet, Inc."
+  },
+  {
+    "name": "gh",
+    "namestr": ".gh",
+    "type": "country-code",
+    "owner": "Network Computer Systems Limited"
+  },
+  {
+    "name": "gi",
+    "namestr": ".gi",
+    "type": "country-code",
+    "owner": "Sapphire Networks"
+  },
+  {
+    "name": "gift",
+    "namestr": ".gift",
+    "type": "generic",
+    "owner": "Uniregistry, Corp."
+  },
+  {
+    "name": "gifts",
+    "namestr": ".gifts",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "gives",
+    "namestr": ".gives",
+    "type": "generic",
+    "owner": "Public Interest Registry (PIR)"
+  },
+  {
+    "name": "giving",
+    "namestr": ".giving",
+    "type": "generic",
+    "owner": "Public Interest Registry (PIR)"
+  },
+  {
+    "name": "gl",
+    "namestr": ".gl",
+    "type": "country-code",
+    "owner": "TELE Greenland A/S"
+  },
+  {
+    "name": "glade",
+    "namestr": ".glade",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "glass",
+    "namestr": ".glass",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "gle",
+    "namestr": ".gle",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "global",
+    "namestr": ".global",
+    "type": "generic",
+    "owner": "Dot Global Domain Registry Limited"
+  },
+  {
+    "name": "globo",
+    "namestr": ".globo",
+    "type": "generic",
+    "owner": "Globo Comunicação e Participações S.A"
+  },
+  {
+    "name": "gm",
+    "namestr": ".gm",
+    "type": "country-code",
+    "owner": "GM-NIC"
+  },
+  {
+    "name": "gmail",
+    "namestr": ".gmail",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "gmbh",
+    "namestr": ".gmbh",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "gmo",
+    "namestr": ".gmo",
+    "type": "generic",
+    "owner": "GMO Internet, Inc."
+  },
+  {
+    "name": "gmx",
+    "namestr": ".gmx",
+    "type": "generic",
+    "owner": "1&amp;1 Mail &amp; Media GmbH"
+  },
+  {
+    "name": "gn",
+    "namestr": ".gn",
+    "type": "country-code",
+    "owner": "Centre National des Sciences Halieutiques de Boussoura"
+  },
+  {
+    "name": "godaddy",
+    "namestr": ".godaddy",
+    "type": "generic",
+    "owner": "Go Daddy East, LLC"
+  },
+  {
+    "name": "gold",
+    "namestr": ".gold",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "goldpoint",
+    "namestr": ".goldpoint",
+    "type": "generic",
+    "owner": "YODOBASHI CAMERA CO.,LTD."
+  },
+  {
+    "name": "golf",
+    "namestr": ".golf",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "goo",
+    "namestr": ".goo",
+    "type": "generic",
+    "owner": "NTT Resonant Inc."
+  },
+  {
+    "name": "goodhands",
+    "namestr": ".goodhands",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "goodyear",
+    "namestr": ".goodyear",
+    "type": "generic",
+    "owner": "The Goodyear Tire &amp; Rubber Company"
+  },
+  {
+    "name": "goog",
+    "namestr": ".goog",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "google",
+    "namestr": ".google",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "gop",
+    "namestr": ".gop",
+    "type": "generic",
+    "owner": "Republican State Leadership Committee, Inc."
+  },
+  {
+    "name": "got",
+    "namestr": ".got",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "gov",
+    "namestr": ".gov",
+    "type": "sponsored",
+    "owner": "Cybersecurity and Infrastructure Security Agency"
+  },
+  {
+    "name": "gp",
+    "namestr": ".gp",
+    "type": "country-code",
+    "owner": "Networking Technologies Group"
+  },
+  {
+    "name": "gq",
+    "namestr": ".gq",
+    "type": "country-code",
+    "owner": "GETESA"
+  },
+  {
+    "name": "gr",
+    "namestr": ".gr",
+    "type": "country-code",
+    "owner": "ICS-FORTH GR"
+  },
+  {
+    "name": "grainger",
+    "namestr": ".grainger",
+    "type": "generic",
+    "owner": "Grainger Registry Services, LLC"
+  },
+  {
+    "name": "graphics",
+    "namestr": ".graphics",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "gratis",
+    "namestr": ".gratis",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "green",
+    "namestr": ".green",
+    "type": "generic",
+    "owner": "Afilias Limited"
+  },
+  {
+    "name": "gripe",
+    "namestr": ".gripe",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "grocery",
+    "namestr": ".grocery",
+    "type": "generic",
+    "owner": "Wal-Mart Stores, Inc."
+  },
+  {
+    "name": "group",
+    "namestr": ".group",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "gs",
+    "namestr": ".gs",
+    "type": "country-code",
+    "owner": "Government of South Georgia and South Sandwich Islands (GSGSSI)"
+  },
+  {
+    "name": "gt",
+    "namestr": ".gt",
+    "type": "country-code",
+    "owner": "Universidad del Valle de Guatemala"
+  },
+  {
+    "name": "gu",
+    "namestr": ".gu",
+    "type": "country-code",
+    "owner": "University of Guam"
+  },
+  {
+    "name": "guardian",
+    "namestr": ".guardian",
+    "type": "generic",
+    "owner": "The Guardian Life Insurance Company of America"
+  },
+  {
+    "name": "gucci",
+    "namestr": ".gucci",
+    "type": "generic",
+    "owner": "Guccio Gucci S.p.a."
+  },
+  {
+    "name": "guge",
+    "namestr": ".guge",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "guide",
+    "namestr": ".guide",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "guitars",
+    "namestr": ".guitars",
+    "type": "generic",
+    "owner": "XYZ.COM LLC"
+  },
+  {
+    "name": "guru",
+    "namestr": ".guru",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "gw",
+    "namestr": ".gw",
+    "type": "country-code",
+    "owner": "Autoridade Reguladora Nacional - Tecnologias de Informação e Comunicação da Guiné-Bissau"
+  },
+  {
+    "name": "gy",
+    "namestr": ".gy",
+    "type": "country-code",
+    "owner": "University of Guyana"
+  },
+  {
+    "name": "hair",
+    "namestr": ".hair",
+    "type": "generic",
+    "owner": "XYZ.COM LLC"
+  },
+  {
+    "name": "hamburg",
+    "namestr": ".hamburg",
+    "type": "generic",
+    "owner": "Hamburg Top-Level-Domain GmbH"
+  },
+  {
+    "name": "hangout",
+    "namestr": ".hangout",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "haus",
+    "namestr": ".haus",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "hbo",
+    "namestr": ".hbo",
+    "type": "generic",
+    "owner": "HBO Registry Services, Inc."
+  },
+  {
+    "name": "hdfc",
+    "namestr": ".hdfc",
+    "type": "generic",
+    "owner": "HOUSING DEVELOPMENT FINANCE CORPORATION LIMITED"
+  },
+  {
+    "name": "hdfcbank",
+    "namestr": ".hdfcbank",
+    "type": "generic",
+    "owner": "HDFC Bank Limited"
+  },
+  {
+    "name": "health",
+    "namestr": ".health",
+    "type": "generic",
+    "owner": "Registry Services, LLC"
+  },
+  {
+    "name": "healthcare",
+    "namestr": ".healthcare",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "help",
+    "namestr": ".help",
+    "type": "generic",
+    "owner": "UNR Corp."
+  },
+  {
+    "name": "helsinki",
+    "namestr": ".helsinki",
+    "type": "generic",
+    "owner": "City of Helsinki"
+  },
+  {
+    "name": "here",
+    "namestr": ".here",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "hermes",
+    "namestr": ".hermes",
+    "type": "generic",
+    "owner": "Hermes International"
+  },
+  {
+    "name": "hgtv",
+    "namestr": ".hgtv",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "hiphop",
+    "namestr": ".hiphop",
+    "type": "generic",
+    "owner": "Dot Hip Hop, LLC"
+  },
+  {
+    "name": "hisamitsu",
+    "namestr": ".hisamitsu",
+    "type": "generic",
+    "owner": "Hisamitsu Pharmaceutical Co.,Inc."
+  },
+  {
+    "name": "hitachi",
+    "namestr": ".hitachi",
+    "type": "generic",
+    "owner": "Hitachi, Ltd."
+  },
+  {
+    "name": "hiv",
+    "namestr": ".hiv",
+    "type": "generic",
+    "owner": "Internet Naming Co."
+  },
+  {
+    "name": "hk",
+    "namestr": ".hk",
+    "type": "country-code",
+    "owner": "Hong Kong Internet Registration Corporation Ltd."
+  },
+  {
+    "name": "hkt",
+    "namestr": ".hkt",
+    "type": "generic",
+    "owner": "PCCW-HKT DataCom Services Limited"
+  },
+  {
+    "name": "hm",
+    "namestr": ".hm",
+    "type": "country-code",
+    "owner": "HM Domain Registry"
+  },
+  {
+    "name": "hn",
+    "namestr": ".hn",
+    "type": "country-code",
+    "owner": "Red de Desarrollo Sostenible Honduras"
+  },
+  {
+    "name": "hockey",
+    "namestr": ".hockey",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "holdings",
+    "namestr": ".holdings",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "holiday",
+    "namestr": ".holiday",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "homedepot",
+    "namestr": ".homedepot",
+    "type": "generic",
+    "owner": "Home Depot Product Authority, LLC"
+  },
+  {
+    "name": "homegoods",
+    "namestr": ".homegoods",
+    "type": "generic",
+    "owner": "The TJX Companies, Inc."
+  },
+  {
+    "name": "homes",
+    "namestr": ".homes",
+    "type": "generic",
+    "owner": "XYZ.COM LLC"
+  },
+  {
+    "name": "homesense",
+    "namestr": ".homesense",
+    "type": "generic",
+    "owner": "The TJX Companies, Inc."
+  },
+  {
+    "name": "honda",
+    "namestr": ".honda",
+    "type": "generic",
+    "owner": "Honda Motor Co., Ltd."
+  },
+  {
+    "name": "honeywell",
+    "namestr": ".honeywell",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "horse",
+    "namestr": ".horse",
+    "type": "generic",
+    "owner": "Registry Services, LLC"
+  },
+  {
+    "name": "hospital",
+    "namestr": ".hospital",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "host",
+    "namestr": ".host",
+    "type": "generic",
+    "owner": "Radix FZC"
+  },
+  {
+    "name": "hosting",
+    "namestr": ".hosting",
+    "type": "generic",
+    "owner": "XYZ.COM LLC"
+  },
+  {
+    "name": "hot",
+    "namestr": ".hot",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "hoteles",
+    "namestr": ".hoteles",
+    "type": "generic",
+    "owner": "Travel Reservations SRL"
+  },
+  {
+    "name": "hotels",
+    "namestr": ".hotels",
+    "type": "generic",
+    "owner": "Booking.com B.V."
+  },
+  {
+    "name": "hotmail",
+    "namestr": ".hotmail",
+    "type": "generic",
+    "owner": "Microsoft Corporation"
+  },
+  {
+    "name": "house",
+    "namestr": ".house",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "how",
+    "namestr": ".how",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "hr",
+    "namestr": ".hr",
+    "type": "country-code",
+    "owner": "CARNet - Croatian Academic and Research Network"
+  },
+  {
+    "name": "hsbc",
+    "namestr": ".hsbc",
+    "type": "generic",
+    "owner": "HSBC Global Services (UK) Limited"
+  },
+  {
+    "name": "ht",
+    "namestr": ".ht",
+    "type": "country-code",
+    "owner": "Consortium FDS/RDDH"
+  },
+  {
+    "name": "htc",
+    "namestr": ".htc",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "hu",
+    "namestr": ".hu",
+    "type": "country-code",
+    "owner": "Council of Hungarian Internet Providers (CHIP)"
+  },
+  {
+    "name": "hughes",
+    "namestr": ".hughes",
+    "type": "generic",
+    "owner": "Hughes Satellite Systems Corporation"
+  },
+  {
+    "name": "hyatt",
+    "namestr": ".hyatt",
+    "type": "generic",
+    "owner": "Hyatt GTLD, L.L.C."
+  },
+  {
+    "name": "hyundai",
+    "namestr": ".hyundai",
+    "type": "generic",
+    "owner": "Hyundai Motor Company"
+  },
+  {
+    "name": "ibm",
+    "namestr": ".ibm",
+    "type": "generic",
+    "owner": "International Business Machines Corporation"
+  },
+  {
+    "name": "icbc",
+    "namestr": ".icbc",
+    "type": "generic",
+    "owner": "Industrial and Commercial Bank of China Limited"
+  },
+  {
+    "name": "ice",
+    "namestr": ".ice",
+    "type": "generic",
+    "owner": "IntercontinentalExchange, Inc."
+  },
+  {
+    "name": "icu",
+    "namestr": ".icu",
+    "type": "generic",
+    "owner": "Shortdot SA"
+  },
+  {
+    "name": "id",
+    "namestr": ".id",
+    "type": "country-code",
+    "owner": "Perkumpulan Pengelola Nama Domain Internet Indonesia (PANDI)"
+  },
+  {
+    "name": "ieee",
+    "namestr": ".ieee",
+    "type": "generic",
+    "owner": "IEEE Global LLC"
+  },
+  {
+    "name": "ifm",
+    "namestr": ".ifm",
+    "type": "generic",
+    "owner": "ifm electronic gmbh"
+  },
+  {
+    "name": "iinet",
+    "namestr": ".iinet",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "ikano",
+    "namestr": ".ikano",
+    "type": "generic",
+    "owner": "Ikano S.A."
+  },
+  {
+    "name": "il",
+    "namestr": ".il",
+    "type": "country-code",
+    "owner": "The Israel Internet Association (RA)"
+  },
+  {
+    "name": "im",
+    "namestr": ".im",
+    "type": "country-code",
+    "owner": "Isle of Man Government"
+  },
+  {
+    "name": "imamat",
+    "namestr": ".imamat",
+    "type": "generic",
+    "owner": "Fondation Aga Khan (Aga Khan Foundation)"
+  },
+  {
+    "name": "imdb",
+    "namestr": ".imdb",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "immo",
+    "namestr": ".immo",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "immobilien",
+    "namestr": ".immobilien",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "in",
+    "namestr": ".in",
+    "type": "country-code",
+    "owner": "National Internet Exchange of India"
+  },
+  {
+    "name": "inc",
+    "namestr": ".inc",
+    "type": "generic",
+    "owner": "Intercap Registry Inc."
+  },
+  {
+    "name": "industries",
+    "namestr": ".industries",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "infiniti",
+    "namestr": ".infiniti",
+    "type": "generic",
+    "owner": "NISSAN MOTOR CO., LTD."
+  },
+  {
+    "name": "info",
+    "namestr": ".info",
+    "type": "generic",
+    "owner": "Afilias Limited"
+  },
+  {
+    "name": "ing",
+    "namestr": ".ing",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "ink",
+    "namestr": ".ink",
+    "type": "generic",
+    "owner": "Registry Services, LLC"
+  },
+  {
+    "name": "institute",
+    "namestr": ".institute",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "insurance",
+    "namestr": ".insurance",
+    "type": "generic",
+    "owner": "fTLD Registry Services LLC"
+  },
+  {
+    "name": "insure",
+    "namestr": ".insure",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "int",
+    "namestr": ".int",
+    "type": "sponsored",
+    "owner": "Internet Assigned Numbers Authority"
+  },
+  {
+    "name": "intel",
+    "namestr": ".intel",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "international",
+    "namestr": ".international",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "intuit",
+    "namestr": ".intuit",
+    "type": "generic",
+    "owner": "Intuit Administrative Services, Inc."
+  },
+  {
+    "name": "investments",
+    "namestr": ".investments",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "io",
+    "namestr": ".io",
+    "type": "country-code",
+    "owner": "Internet Computer Bureau Limited"
+  },
+  {
+    "name": "ipiranga",
+    "namestr": ".ipiranga",
+    "type": "generic",
+    "owner": "Ipiranga Produtos de Petroleo S.A."
+  },
+  {
+    "name": "iq",
+    "namestr": ".iq",
+    "type": "country-code",
+    "owner": "Communications and Media Commission (CMC)"
+  },
+  {
+    "name": "ir",
+    "namestr": ".ir",
+    "type": "country-code",
+    "owner": "Institute for Research in Fundamental Sciences"
+  },
+  {
+    "name": "irish",
+    "namestr": ".irish",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "is",
+    "namestr": ".is",
+    "type": "country-code",
+    "owner": "ISNIC - Internet Iceland ltd."
+  },
+  {
+    "name": "iselect",
+    "namestr": ".iselect",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "ismaili",
+    "namestr": ".ismaili",
+    "type": "generic",
+    "owner": "Fondation Aga Khan (Aga Khan Foundation)"
+  },
+  {
+    "name": "ist",
+    "namestr": ".ist",
+    "type": "generic",
+    "owner": "Istanbul Metropolitan Municipality"
+  },
+  {
+    "name": "istanbul",
+    "namestr": ".istanbul",
+    "type": "generic",
+    "owner": "Istanbul Metropolitan Municipality"
+  },
+  {
+    "name": "it",
+    "namestr": ".it",
+    "type": "country-code",
+    "owner": "IIT - CNR"
+  },
+  {
+    "name": "itau",
+    "namestr": ".itau",
+    "type": "generic",
+    "owner": "Itau Unibanco Holding S.A."
+  },
+  {
+    "name": "itv",
+    "namestr": ".itv",
+    "type": "generic",
+    "owner": "ITV Services Limited"
+  },
+  {
+    "name": "iveco",
+    "namestr": ".iveco",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "iwc",
+    "namestr": ".iwc",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "jaguar",
+    "namestr": ".jaguar",
+    "type": "generic",
+    "owner": "Jaguar Land Rover Ltd"
+  },
+  {
+    "name": "java",
+    "namestr": ".java",
+    "type": "generic",
+    "owner": "Oracle Corporation"
+  },
+  {
+    "name": "jcb",
+    "namestr": ".jcb",
+    "type": "generic",
+    "owner": "JCB Co., Ltd."
+  },
+  {
+    "name": "jcp",
+    "namestr": ".jcp",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "je",
+    "namestr": ".je",
+    "type": "country-code",
+    "owner": "Island Networks (Jersey) Ltd."
+  },
+  {
+    "name": "jeep",
+    "namestr": ".jeep",
+    "type": "generic",
+    "owner": "FCA US LLC."
+  },
+  {
+    "name": "jetzt",
+    "namestr": ".jetzt",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "jewelry",
+    "namestr": ".jewelry",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "jio",
+    "namestr": ".jio",
+    "type": "generic",
+    "owner": "Affinity Names, Inc."
+  },
+  {
+    "name": "jlc",
+    "namestr": ".jlc",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "jll",
+    "namestr": ".jll",
+    "type": "generic",
+    "owner": "Jones Lang LaSalle Incorporated"
+  },
+  {
+    "name": "jm",
+    "namestr": ".jm",
+    "type": "country-code",
+    "owner": "University of West Indies"
+  },
+  {
+    "name": "jmp",
+    "namestr": ".jmp",
+    "type": "generic",
+    "owner": "Matrix IP LLC"
+  },
+  {
+    "name": "jnj",
+    "namestr": ".jnj",
+    "type": "generic",
+    "owner": "Johnson &amp; Johnson Services, Inc."
+  },
+  {
+    "name": "jo",
+    "namestr": ".jo",
+    "type": "country-code",
+    "owner": "Ministry of Digital Economy and Entrepreneurship (MoDEE)"
+  },
+  {
+    "name": "jobs",
+    "namestr": ".jobs",
+    "type": "sponsored",
+    "owner": "Employ Media LLC"
+  },
+  {
+    "name": "joburg",
+    "namestr": ".joburg",
+    "type": "generic",
+    "owner": "ZA Central Registry NPC trading as ZA Central Registry"
+  },
+  {
+    "name": "jot",
+    "namestr": ".jot",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "joy",
+    "namestr": ".joy",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "jp",
+    "namestr": ".jp",
+    "type": "country-code",
+    "owner": "Japan Registry Services Co., Ltd."
+  },
+  {
+    "name": "jpmorgan",
+    "namestr": ".jpmorgan",
+    "type": "generic",
+    "owner": "JPMorgan Chase Bank, National Association"
+  },
+  {
+    "name": "jprs",
+    "namestr": ".jprs",
+    "type": "generic",
+    "owner": "Japan Registry Services Co., Ltd."
+  },
+  {
+    "name": "juegos",
+    "namestr": ".juegos",
+    "type": "generic",
+    "owner": "Internet Naming Company LLC"
+  },
+  {
+    "name": "juniper",
+    "namestr": ".juniper",
+    "type": "generic",
+    "owner": "JUNIPER NETWORKS, INC."
+  },
+  {
+    "name": "kaufen",
+    "namestr": ".kaufen",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "kddi",
+    "namestr": ".kddi",
+    "type": "generic",
+    "owner": "KDDI CORPORATION"
+  },
+  {
+    "name": "ke",
+    "namestr": ".ke",
+    "type": "country-code",
+    "owner": "Kenya Network Information Center (KeNIC)"
+  },
+  {
+    "name": "kerryhotels",
+    "namestr": ".kerryhotels",
+    "type": "generic",
+    "owner": "Kerry Trading Co. Limited"
+  },
+  {
+    "name": "kerrylogistics",
+    "namestr": ".kerrylogistics",
+    "type": "generic",
+    "owner": "Kerry Trading Co. Limited"
+  },
+  {
+    "name": "kerryproperties",
+    "namestr": ".kerryproperties",
+    "type": "generic",
+    "owner": "Kerry Trading Co. Limited"
+  },
+  {
+    "name": "kfh",
+    "namestr": ".kfh",
+    "type": "generic",
+    "owner": "Kuwait Finance House"
+  },
+  {
+    "name": "kg",
+    "namestr": ".kg",
+    "type": "country-code",
+    "owner": "AsiaInfo Telecommunication Enterprise"
+  },
+  {
+    "name": "kh",
+    "namestr": ".kh",
+    "type": "country-code",
+    "owner": "Telecommunication Regulator of Cambodia (TRC)"
+  },
+  {
+    "name": "ki",
+    "namestr": ".ki",
+    "type": "country-code",
+    "owner": "Ministry of Communications, Transport, and Tourism Development"
+  },
+  {
+    "name": "kia",
+    "namestr": ".kia",
+    "type": "generic",
+    "owner": "KIA MOTORS CORPORATION"
+  },
+  {
+    "name": "kids",
+    "namestr": ".kids",
+    "type": "generic",
+    "owner": "DotKids Foundation Limited"
+  },
+  {
+    "name": "kim",
+    "namestr": ".kim",
+    "type": "generic",
+    "owner": "Afilias Limited"
+  },
+  {
+    "name": "kinder",
+    "namestr": ".kinder",
+    "type": "generic",
+    "owner": "Ferrero Trading Lux S.A."
+  },
+  {
+    "name": "kindle",
+    "namestr": ".kindle",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "kitchen",
+    "namestr": ".kitchen",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "kiwi",
+    "namestr": ".kiwi",
+    "type": "generic",
+    "owner": "DOT KIWI LIMITED"
+  },
+  {
+    "name": "km",
+    "namestr": ".km",
+    "type": "country-code",
+    "owner": "Comores Telecom"
+  },
+  {
+    "name": "kn",
+    "namestr": ".kn",
+    "type": "country-code",
+    "owner": "Ministry of Finance, Sustainable Development Information &amp; Technology"
+  },
+  {
+    "name": "koeln",
+    "namestr": ".koeln",
+    "type": "generic",
+    "owner": "dotKoeln GmbH"
+  },
+  {
+    "name": "komatsu",
+    "namestr": ".komatsu",
+    "type": "generic",
+    "owner": "Komatsu Ltd."
+  },
+  {
+    "name": "kosher",
+    "namestr": ".kosher",
+    "type": "generic",
+    "owner": "Kosher Marketing Assets LLC"
+  },
+  {
+    "name": "kp",
+    "namestr": ".kp",
+    "type": "country-code",
+    "owner": "Star Joint Venture Company"
+  },
+  {
+    "name": "kpmg",
+    "namestr": ".kpmg",
+    "type": "generic",
+    "owner": "KPMG International Cooperative (KPMG International Genossenschaft)"
+  },
+  {
+    "name": "kpn",
+    "namestr": ".kpn",
+    "type": "generic",
+    "owner": "Koninklijke KPN N.V."
+  },
+  {
+    "name": "kr",
+    "namestr": ".kr",
+    "type": "country-code",
+    "owner": "Korea Internet &amp; Security Agency (KISA)"
+  },
+  {
+    "name": "krd",
+    "namestr": ".krd",
+    "type": "generic",
+    "owner": "KRG Department of Information Technology"
+  },
+  {
+    "name": "kred",
+    "namestr": ".kred",
+    "type": "generic",
+    "owner": "KredTLD Pty Ltd"
+  },
+  {
+    "name": "kuokgroup",
+    "namestr": ".kuokgroup",
+    "type": "generic",
+    "owner": "Kerry Trading Co. Limited"
+  },
+  {
+    "name": "kw",
+    "namestr": ".kw",
+    "type": "country-code",
+    "owner": "Communications and Information Technology Regulatory Authority"
+  },
+  {
+    "name": "ky",
+    "namestr": ".ky",
+    "type": "country-code",
+    "owner": "Utility Regulation and Competition Office (OfReg)"
+  },
+  {
+    "name": "kyoto",
+    "namestr": ".kyoto",
+    "type": "generic",
+    "owner": "Academic Institution: Kyoto Jyoho Gakuen"
+  },
+  {
+    "name": "kz",
+    "namestr": ".kz",
+    "type": "country-code",
+    "owner": "Association of IT Companies of Kazakhstan"
+  },
+  {
+    "name": "lacaixa",
+    "namestr": ".lacaixa",
+    "type": "generic",
+    "owner": "CAIXA D&#x27;ESTALVIS I PENSIONS DE BARCELONA"
+  },
+  {
+    "name": "ladbrokes",
+    "namestr": ".ladbrokes",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "lamborghini",
+    "namestr": ".lamborghini",
+    "type": "generic",
+    "owner": "Automobili Lamborghini S.p.A."
+  },
+  {
+    "name": "lamer",
+    "namestr": ".lamer",
+    "type": "generic",
+    "owner": "The Estée Lauder Companies Inc."
+  },
+  {
+    "name": "lancaster",
+    "namestr": ".lancaster",
+    "type": "generic",
+    "owner": "LANCASTER"
+  },
+  {
+    "name": "lancia",
+    "namestr": ".lancia",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "lancome",
+    "namestr": ".lancome",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "land",
+    "namestr": ".land",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "landrover",
+    "namestr": ".landrover",
+    "type": "generic",
+    "owner": "Jaguar Land Rover Ltd"
+  },
+  {
+    "name": "lanxess",
+    "namestr": ".lanxess",
+    "type": "generic",
+    "owner": "LANXESS Corporation"
+  },
+  {
+    "name": "lasalle",
+    "namestr": ".lasalle",
+    "type": "generic",
+    "owner": "Jones Lang LaSalle Incorporated"
+  },
+  {
+    "name": "lat",
+    "namestr": ".lat",
+    "type": "generic",
+    "owner": "XYZ.COM LLC"
+  },
+  {
+    "name": "latino",
+    "namestr": ".latino",
+    "type": "generic",
+    "owner": "Dish DBS Corporation"
+  },
+  {
+    "name": "latrobe",
+    "namestr": ".latrobe",
+    "type": "generic",
+    "owner": "La Trobe University"
+  },
+  {
+    "name": "law",
+    "namestr": ".law",
+    "type": "generic",
+    "owner": "Registry Services, LLC"
+  },
+  {
+    "name": "lawyer",
+    "namestr": ".lawyer",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "lc",
+    "namestr": ".lc",
+    "type": "country-code",
+    "owner": "University of Puerto Rico"
+  },
+  {
+    "name": "lds",
+    "namestr": ".lds",
+    "type": "generic",
+    "owner": "IRI Domain Management, LLC"
+  },
+  {
+    "name": "lease",
+    "namestr": ".lease",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "leclerc",
+    "namestr": ".leclerc",
+    "type": "generic",
+    "owner": "A.C.D. LEC Association des Centres Distributeurs Edouard Leclerc"
+  },
+  {
+    "name": "lefrak",
+    "namestr": ".lefrak",
+    "type": "generic",
+    "owner": "LeFrak Organization, Inc."
+  },
+  {
+    "name": "legal",
+    "namestr": ".legal",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "lego",
+    "namestr": ".lego",
+    "type": "generic",
+    "owner": "LEGO Juris A/S"
+  },
+  {
+    "name": "lexus",
+    "namestr": ".lexus",
+    "type": "generic",
+    "owner": "TOYOTA MOTOR CORPORATION"
+  },
+  {
+    "name": "lgbt",
+    "namestr": ".lgbt",
+    "type": "generic",
+    "owner": "Afilias Limited"
+  },
+  {
+    "name": "li",
+    "namestr": ".li",
+    "type": "country-code",
+    "owner": "SWITCH The Swiss Education &amp; Research Network"
+  },
+  {
+    "name": "liaison",
+    "namestr": ".liaison",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "lidl",
+    "namestr": ".lidl",
+    "type": "generic",
+    "owner": "Schwarz Domains und Services GmbH &amp; Co. KG"
+  },
+  {
+    "name": "life",
+    "namestr": ".life",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "lifeinsurance",
+    "namestr": ".lifeinsurance",
+    "type": "generic",
+    "owner": "American Council of Life Insurers"
+  },
+  {
+    "name": "lifestyle",
+    "namestr": ".lifestyle",
+    "type": "generic",
+    "owner": "Lifestyle Domain Holdings, Inc."
+  },
+  {
+    "name": "lighting",
+    "namestr": ".lighting",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "like",
+    "namestr": ".like",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "lilly",
+    "namestr": ".lilly",
+    "type": "generic",
+    "owner": "Eli Lilly and Company"
+  },
+  {
+    "name": "limited",
+    "namestr": ".limited",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "limo",
+    "namestr": ".limo",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "lincoln",
+    "namestr": ".lincoln",
+    "type": "generic",
+    "owner": "Ford Motor Company"
+  },
+  {
+    "name": "linde",
+    "namestr": ".linde",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "link",
+    "namestr": ".link",
+    "type": "generic",
+    "owner": "Nova Registry Ltd."
+  },
+  {
+    "name": "lipsy",
+    "namestr": ".lipsy",
+    "type": "generic",
+    "owner": "Lipsy Ltd"
+  },
+  {
+    "name": "live",
+    "namestr": ".live",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "living",
+    "namestr": ".living",
+    "type": "generic",
+    "owner": "Lifestyle Domain Holdings, Inc."
+  },
+  {
+    "name": "lixil",
+    "namestr": ".lixil",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "llc",
+    "namestr": ".llc",
+    "type": "generic",
+    "owner": "Afilias Limited"
+  },
+  {
+    "name": "llp",
+    "namestr": ".llp",
+    "type": "generic",
+    "owner": "Intercap Registry Inc."
+  },
+  {
+    "name": "loan",
+    "namestr": ".loan",
+    "type": "generic",
+    "owner": "dot Loan Limited"
+  },
+  {
+    "name": "loans",
+    "namestr": ".loans",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "locker",
+    "namestr": ".locker",
+    "type": "generic",
+    "owner": "Dish DBS Corporation"
+  },
+  {
+    "name": "locus",
+    "namestr": ".locus",
+    "type": "generic",
+    "owner": "Locus Analytics LLC"
+  },
+  {
+    "name": "loft",
+    "namestr": ".loft",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "lol",
+    "namestr": ".lol",
+    "type": "generic",
+    "owner": "XYZ.COM LLC"
+  },
+  {
+    "name": "london",
+    "namestr": ".london",
+    "type": "generic",
+    "owner": "Dot London Domains Limited"
+  },
+  {
+    "name": "lotte",
+    "namestr": ".lotte",
+    "type": "generic",
+    "owner": "Lotte Holdings Co., Ltd."
+  },
+  {
+    "name": "lotto",
+    "namestr": ".lotto",
+    "type": "generic",
+    "owner": "Afilias Limited"
+  },
+  {
+    "name": "love",
+    "namestr": ".love",
+    "type": "generic",
+    "owner": "Merchant Law Group LLP"
+  },
+  {
+    "name": "lpl",
+    "namestr": ".lpl",
+    "type": "generic",
+    "owner": "LPL Holdings, Inc."
+  },
+  {
+    "name": "lplfinancial",
+    "namestr": ".lplfinancial",
+    "type": "generic",
+    "owner": "LPL Holdings, Inc."
+  },
+  {
+    "name": "lr",
+    "namestr": ".lr",
+    "type": "country-code",
+    "owner": "Data Technology Solutions, Inc."
+  },
+  {
+    "name": "ls",
+    "namestr": ".ls",
+    "type": "country-code",
+    "owner": "Lesotho Network Information Centre Proprietary (LSNIC)"
+  },
+  {
+    "name": "lt",
+    "namestr": ".lt",
+    "type": "country-code",
+    "owner": "Kaunas University of Technology"
+  },
+  {
+    "name": "ltd",
+    "namestr": ".ltd",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "ltda",
+    "namestr": ".ltda",
+    "type": "generic",
+    "owner": "InterNetX Corp."
+  },
+  {
+    "name": "lu",
+    "namestr": ".lu",
+    "type": "country-code",
+    "owner": "RESTENA"
+  },
+  {
+    "name": "lundbeck",
+    "namestr": ".lundbeck",
+    "type": "generic",
+    "owner": "H. Lundbeck A/S"
+  },
+  {
+    "name": "lupin",
+    "namestr": ".lupin",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "luxe",
+    "namestr": ".luxe",
+    "type": "generic",
+    "owner": "Registry Services, LLC"
+  },
+  {
+    "name": "luxury",
+    "namestr": ".luxury",
+    "type": "generic",
+    "owner": "Luxury Partners LLC"
+  },
+  {
+    "name": "ly",
+    "namestr": ".ly",
+    "type": "country-code",
+    "owner": "General Post and Telecommunication Company"
+  },
+  {
+    "name": "ma",
+    "namestr": ".ma",
+    "type": "country-code",
+    "owner": "Agence Nationale de Réglementation des Télécommunications (ANRT)"
+  },
+  {
+    "name": "macys",
+    "namestr": ".macys",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "madrid",
+    "namestr": ".madrid",
+    "type": "generic",
+    "owner": "Comunidad de Madrid"
+  },
+  {
+    "name": "maif",
+    "namestr": ".maif",
+    "type": "generic",
+    "owner": "Mutuelle Assurance Instituteur France (MAIF)"
+  },
+  {
+    "name": "maison",
+    "namestr": ".maison",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "makeup",
+    "namestr": ".makeup",
+    "type": "generic",
+    "owner": "XYZ.COM LLC"
+  },
+  {
+    "name": "man",
+    "namestr": ".man",
+    "type": "generic",
+    "owner": "MAN SE"
+  },
+  {
+    "name": "management",
+    "namestr": ".management",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "mango",
+    "namestr": ".mango",
+    "type": "generic",
+    "owner": "PUNTO FA S.L."
+  },
+  {
+    "name": "map",
+    "namestr": ".map",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "market",
+    "namestr": ".market",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "marketing",
+    "namestr": ".marketing",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "markets",
+    "namestr": ".markets",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "marriott",
+    "namestr": ".marriott",
+    "type": "generic",
+    "owner": "Marriott Worldwide Corporation"
+  },
+  {
+    "name": "marshalls",
+    "namestr": ".marshalls",
+    "type": "generic",
+    "owner": "The TJX Companies, Inc."
+  },
+  {
+    "name": "maserati",
+    "namestr": ".maserati",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "mattel",
+    "namestr": ".mattel",
+    "type": "generic",
+    "owner": "Mattel Sites, Inc."
+  },
+  {
+    "name": "mba",
+    "namestr": ".mba",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "mc",
+    "namestr": ".mc",
+    "type": "country-code",
+    "owner": "Direction des Plateformes et des Ressources Numériques"
+  },
+  {
+    "name": "mcd",
+    "namestr": ".mcd",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "mcdonalds",
+    "namestr": ".mcdonalds",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "mckinsey",
+    "namestr": ".mckinsey",
+    "type": "generic",
+    "owner": "McKinsey Holdings, Inc."
+  },
+  {
+    "name": "md",
+    "namestr": ".md",
+    "type": "country-code",
+    "owner": "IP Serviciul Tehnologia Informatiei si Securitate Cibernetica"
+  },
+  {
+    "name": "me",
+    "namestr": ".me",
+    "type": "country-code",
+    "owner": "Government of Montenegro"
+  },
+  {
+    "name": "med",
+    "namestr": ".med",
+    "type": "generic",
+    "owner": "Medistry LLC"
+  },
+  {
+    "name": "media",
+    "namestr": ".media",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "meet",
+    "namestr": ".meet",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "melbourne",
+    "namestr": ".melbourne",
+    "type": "generic",
+    "owner": "The Crown in right of the State of Victoria, represented by its Department of State Development, Business and Innovation"
+  },
+  {
+    "name": "meme",
+    "namestr": ".meme",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "memorial",
+    "namestr": ".memorial",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "men",
+    "namestr": ".men",
+    "type": "generic",
+    "owner": "Exclusive Registry Limited"
+  },
+  {
+    "name": "menu",
+    "namestr": ".menu",
+    "type": "generic",
+    "owner": "Dot Menu Registry LLC"
+  },
+  {
+    "name": "meo",
+    "namestr": ".meo",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "merckmsd",
+    "namestr": ".merckmsd",
+    "type": "generic",
+    "owner": "MSD Registry Holdings, Inc."
+  },
+  {
+    "name": "metlife",
+    "namestr": ".metlife",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "mf",
+    "namestr": ".mf",
+    "type": "country-code",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "mg",
+    "namestr": ".mg",
+    "type": "country-code",
+    "owner": "NIC-MG (Network Information Center Madagascar)"
+  },
+  {
+    "name": "mh",
+    "namestr": ".mh",
+    "type": "country-code",
+    "owner": "Office of the Cabinet"
+  },
+  {
+    "name": "miami",
+    "namestr": ".miami",
+    "type": "generic",
+    "owner": "Registry Services, LLC"
+  },
+  {
+    "name": "microsoft",
+    "namestr": ".microsoft",
+    "type": "generic",
+    "owner": "Microsoft Corporation"
+  },
+  {
+    "name": "mil",
+    "namestr": ".mil",
+    "type": "sponsored",
+    "owner": "DoD Network Information Center"
+  },
+  {
+    "name": "mini",
+    "namestr": ".mini",
+    "type": "generic",
+    "owner": "Bayerische Motoren Werke Aktiengesellschaft"
+  },
+  {
+    "name": "mint",
+    "namestr": ".mint",
+    "type": "generic",
+    "owner": "Intuit Administrative Services, Inc."
+  },
+  {
+    "name": "mit",
+    "namestr": ".mit",
+    "type": "generic",
+    "owner": "Massachusetts Institute of Technology"
+  },
+  {
+    "name": "mitsubishi",
+    "namestr": ".mitsubishi",
+    "type": "generic",
+    "owner": "Mitsubishi Corporation"
+  },
+  {
+    "name": "mk",
+    "namestr": ".mk",
+    "type": "country-code",
+    "owner": "Macedonian Academic Research Network Skopje"
+  },
+  {
+    "name": "ml",
+    "namestr": ".ml",
+    "type": "country-code",
+    "owner": "Agence des Technologies de l’Information et de la Communication"
+  },
+  {
+    "name": "mlb",
+    "namestr": ".mlb",
+    "type": "generic",
+    "owner": "MLB Advanced Media DH, LLC"
+  },
+  {
+    "name": "mls",
+    "namestr": ".mls",
+    "type": "generic",
+    "owner": "The Canadian Real Estate Association"
+  },
+  {
+    "name": "mm",
+    "namestr": ".mm",
+    "type": "country-code",
+    "owner": "Ministry of Transport and Communications"
+  },
+  {
+    "name": "mma",
+    "namestr": ".mma",
+    "type": "generic",
+    "owner": "MMA IARD"
+  },
+  {
+    "name": "mn",
+    "namestr": ".mn",
+    "type": "country-code",
+    "owner": "Datacom Co., Ltd."
+  },
+  {
+    "name": "mo",
+    "namestr": ".mo",
+    "type": "country-code",
+    "owner": "Macao Post and Telecommunications Bureau (CTT)"
+  },
+  {
+    "name": "mobi",
+    "namestr": ".mobi",
+    "type": "generic",
+    "owner": "Afilias Limited"
+  },
+  {
+    "name": "mobile",
+    "namestr": ".mobile",
+    "type": "generic",
+    "owner": "Dish DBS Corporation"
+  },
+  {
+    "name": "mobily",
+    "namestr": ".mobily",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "moda",
+    "namestr": ".moda",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "moe",
+    "namestr": ".moe",
+    "type": "generic",
+    "owner": "Interlink Systems Innovation Institute K.K."
+  },
+  {
+    "name": "moi",
+    "namestr": ".moi",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "mom",
+    "namestr": ".mom",
+    "type": "generic",
+    "owner": "XYZ.COM LLC"
+  },
+  {
+    "name": "monash",
+    "namestr": ".monash",
+    "type": "generic",
+    "owner": "Monash University"
+  },
+  {
+    "name": "money",
+    "namestr": ".money",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "monster",
+    "namestr": ".monster",
+    "type": "generic",
+    "owner": "XYZ.COM LLC"
+  },
+  {
+    "name": "montblanc",
+    "namestr": ".montblanc",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "mopar",
+    "namestr": ".mopar",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "mormon",
+    "namestr": ".mormon",
+    "type": "generic",
+    "owner": "IRI Domain Management, LLC (&quot;Applicant&quot;)"
+  },
+  {
+    "name": "mortgage",
+    "namestr": ".mortgage",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "moscow",
+    "namestr": ".moscow",
+    "type": "generic",
+    "owner": "Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID)"
+  },
+  {
+    "name": "moto",
+    "namestr": ".moto",
+    "type": "generic",
+    "owner": "Motorola Trademark Holdings, LLC"
+  },
+  {
+    "name": "motorcycles",
+    "namestr": ".motorcycles",
+    "type": "generic",
+    "owner": "XYZ.COM LLC"
+  },
+  {
+    "name": "mov",
+    "namestr": ".mov",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "movie",
+    "namestr": ".movie",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "movistar",
+    "namestr": ".movistar",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "mp",
+    "namestr": ".mp",
+    "type": "country-code",
+    "owner": "Saipan Datacom, Inc."
+  },
+  {
+    "name": "mq",
+    "namestr": ".mq",
+    "type": "country-code",
+    "owner": "CANAL+ TELECOM"
+  },
+  {
+    "name": "mr",
+    "namestr": ".mr",
+    "type": "country-code",
+    "owner": "Université de Nouakchott Al Aasriya"
+  },
+  {
+    "name": "ms",
+    "namestr": ".ms",
+    "type": "country-code",
+    "owner": "MNI Networks Ltd."
+  },
+  {
+    "name": "msd",
+    "namestr": ".msd",
+    "type": "generic",
+    "owner": "MSD Registry Holdings, Inc."
+  },
+  {
+    "name": "mt",
+    "namestr": ".mt",
+    "type": "country-code",
+    "owner": "NIC (Malta)"
+  },
+  {
+    "name": "mtn",
+    "namestr": ".mtn",
+    "type": "generic",
+    "owner": "MTN Dubai Limited"
+  },
+  {
+    "name": "mtpc",
+    "namestr": ".mtpc",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "mtr",
+    "namestr": ".mtr",
+    "type": "generic",
+    "owner": "MTR Corporation Limited"
+  },
+  {
+    "name": "mu",
+    "namestr": ".mu",
+    "type": "country-code",
+    "owner": "Internet Direct Ltd"
+  },
+  {
+    "name": "museum",
+    "namestr": ".museum",
+    "type": "sponsored",
+    "owner": "Museum Domain Management Association"
+  },
+  {
+    "name": "music",
+    "namestr": ".music",
+    "type": "generic",
+    "owner": "DotMusic Limited"
+  },
+  {
+    "name": "mutual",
+    "namestr": ".mutual",
+    "type": "generic",
+    "owner": "Northwestern Mutual MU TLD Registry, LLC"
+  },
+  {
+    "name": "mutuelle",
+    "namestr": ".mutuelle",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "mv",
+    "namestr": ".mv",
+    "type": "country-code",
+    "owner": "Dhiraagu Pvt. Ltd. (DHIVEHINET)"
+  },
+  {
+    "name": "my",
+    "namestr": ".my",
+    "type": "country-code",
+    "owner": "MYNIC Berhad"
+  },
+  {
+    "name": "mz",
+    "namestr": ".mz",
+    "type": "country-code",
+    "owner": "Centro de Informatica de Universidade Eduardo Mondlane"
+  },
+  {
+    "name": "na",
+    "namestr": ".na",
+    "type": "country-code",
+    "owner": "Namibian Network Information Center"
+  },
+  {
+    "name": "nab",
+    "namestr": ".nab",
+    "type": "generic",
+    "owner": "National Australia Bank Limited"
+  },
+  {
+    "name": "nadex",
+    "namestr": ".nadex",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "nagoya",
+    "namestr": ".nagoya",
+    "type": "generic",
+    "owner": "GMO Registry, Inc."
+  },
+  {
+    "name": "name",
+    "namestr": ".name",
+    "type": "generic-restricted",
+    "owner": "VeriSign Information Services, Inc."
+  },
+  {
+    "name": "nationwide",
+    "namestr": ".nationwide",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "natura",
+    "namestr": ".natura",
+    "type": "generic",
+    "owner": "NATURA COSMÉTICOS S.A."
+  },
+  {
+    "name": "navy",
+    "namestr": ".navy",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "nba",
+    "namestr": ".nba",
+    "type": "generic",
+    "owner": "NBA REGISTRY, LLC"
+  },
+  {
+    "name": "nc",
+    "namestr": ".nc",
+    "type": "country-code",
+    "owner": "Office des Postes et Telecommunications"
+  },
+  {
+    "name": "ne",
+    "namestr": ".ne",
+    "type": "country-code",
+    "owner": "SONITEL"
+  },
+  {
+    "name": "nec",
+    "namestr": ".nec",
+    "type": "generic",
+    "owner": "NEC Corporation"
+  },
+  {
+    "name": "net",
+    "namestr": ".net",
+    "type": "generic",
+    "owner": "VeriSign Global Registry Services"
+  },
+  {
+    "name": "netbank",
+    "namestr": ".netbank",
+    "type": "generic",
+    "owner": "COMMONWEALTH BANK OF AUSTRALIA"
+  },
+  {
+    "name": "netflix",
+    "namestr": ".netflix",
+    "type": "generic",
+    "owner": "Netflix, Inc."
+  },
+  {
+    "name": "network",
+    "namestr": ".network",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "neustar",
+    "namestr": ".neustar",
+    "type": "generic",
+    "owner": "NeuStar, Inc."
+  },
+  {
+    "name": "new",
+    "namestr": ".new",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "newholland",
+    "namestr": ".newholland",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "news",
+    "namestr": ".news",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "next",
+    "namestr": ".next",
+    "type": "generic",
+    "owner": "Next plc"
+  },
+  {
+    "name": "nextdirect",
+    "namestr": ".nextdirect",
+    "type": "generic",
+    "owner": "Next plc"
+  },
+  {
+    "name": "nexus",
+    "namestr": ".nexus",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "nf",
+    "namestr": ".nf",
+    "type": "country-code",
+    "owner": "Norfolk Island Data Services"
+  },
+  {
+    "name": "nfl",
+    "namestr": ".nfl",
+    "type": "generic",
+    "owner": "NFL Reg Ops LLC"
+  },
+  {
+    "name": "ng",
+    "namestr": ".ng",
+    "type": "country-code",
+    "owner": "Nigeria Internet Registration Association"
+  },
+  {
+    "name": "ngo",
+    "namestr": ".ngo",
+    "type": "generic",
+    "owner": "Public Interest Registry"
+  },
+  {
+    "name": "nhk",
+    "namestr": ".nhk",
+    "type": "generic",
+    "owner": "Japan Broadcasting Corporation (NHK)"
+  },
+  {
+    "name": "nico",
+    "namestr": ".nico",
+    "type": "generic",
+    "owner": "DWANGO Co., Ltd."
+  },
+  {
+    "name": "nike",
+    "namestr": ".nike",
+    "type": "generic",
+    "owner": "NIKE, Inc."
+  },
+  {
+    "name": "nikon",
+    "namestr": ".nikon",
+    "type": "generic",
+    "owner": "NIKON CORPORATION"
+  },
+  {
+    "name": "ninja",
+    "namestr": ".ninja",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "nissan",
+    "namestr": ".nissan",
+    "type": "generic",
+    "owner": "NISSAN MOTOR CO., LTD."
+  },
+  {
+    "name": "nissay",
+    "namestr": ".nissay",
+    "type": "generic",
+    "owner": "Nippon Life Insurance Company"
+  },
+  {
+    "name": "nl",
+    "namestr": ".nl",
+    "type": "country-code",
+    "owner": "SIDN (Stichting Internet Domeinregistratie Nederland)"
+  },
+  {
+    "name": "no",
+    "namestr": ".no",
+    "type": "country-code",
+    "owner": "Norid A/S"
+  },
+  {
+    "name": "nokia",
+    "namestr": ".nokia",
+    "type": "generic",
+    "owner": "Nokia Corporation"
+  },
+  {
+    "name": "northwesternmutual",
+    "namestr": ".northwesternmutual",
+    "type": "generic",
+    "owner": "Northwestern Mutual Registry, LLC"
+  },
+  {
+    "name": "norton",
+    "namestr": ".norton",
+    "type": "generic",
+    "owner": "Symantec Corporation"
+  },
+  {
+    "name": "now",
+    "namestr": ".now",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "nowruz",
+    "namestr": ".nowruz",
+    "type": "generic",
+    "owner": "Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti."
+  },
+  {
+    "name": "nowtv",
+    "namestr": ".nowtv",
+    "type": "generic",
+    "owner": "Starbucks (HK) Limited"
+  },
+  {
+    "name": "np",
+    "namestr": ".np",
+    "type": "country-code",
+    "owner": "Mercantile Communications Pvt. Ltd."
+  },
+  {
+    "name": "nr",
+    "namestr": ".nr",
+    "type": "country-code",
+    "owner": "CENPAC NET"
+  },
+  {
+    "name": "nra",
+    "namestr": ".nra",
+    "type": "generic",
+    "owner": "NRA Holdings Company, INC."
+  },
+  {
+    "name": "nrw",
+    "namestr": ".nrw",
+    "type": "generic",
+    "owner": "Minds + Machines GmbH"
+  },
+  {
+    "name": "ntt",
+    "namestr": ".ntt",
+    "type": "generic",
+    "owner": "NIPPON TELEGRAPH AND TELEPHONE CORPORATION"
+  },
+  {
+    "name": "nu",
+    "namestr": ".nu",
+    "type": "country-code",
+    "owner": "The IUSN Foundation"
+  },
+  {
+    "name": "nyc",
+    "namestr": ".nyc",
+    "type": "generic",
+    "owner": "The City of New York by and through the New York City Department of Information Technology &amp; Telecommunications"
+  },
+  {
+    "name": "nz",
+    "namestr": ".nz",
+    "type": "country-code",
+    "owner": "InternetNZ"
+  },
+  {
+    "name": "obi",
+    "namestr": ".obi",
+    "type": "generic",
+    "owner": "OBI Group Holding SE &amp; Co. KGaA"
+  },
+  {
+    "name": "observer",
+    "namestr": ".observer",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "off",
+    "namestr": ".off",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "office",
+    "namestr": ".office",
+    "type": "generic",
+    "owner": "Microsoft Corporation"
+  },
+  {
+    "name": "okinawa",
+    "namestr": ".okinawa",
+    "type": "generic",
+    "owner": "BRregistry, Inc."
+  },
+  {
+    "name": "olayan",
+    "namestr": ".olayan",
+    "type": "generic",
+    "owner": "Crescent Holding GmbH"
+  },
+  {
+    "name": "olayangroup",
+    "namestr": ".olayangroup",
+    "type": "generic",
+    "owner": "Crescent Holding GmbH"
+  },
+  {
+    "name": "oldnavy",
+    "namestr": ".oldnavy",
+    "type": "generic",
+    "owner": "The Gap, Inc."
+  },
+  {
+    "name": "ollo",
+    "namestr": ".ollo",
+    "type": "generic",
+    "owner": "Dish DBS Corporation"
+  },
+  {
+    "name": "om",
+    "namestr": ".om",
+    "type": "country-code",
+    "owner": "Telecommunications Regulatory Authority (TRA)"
+  },
+  {
+    "name": "omega",
+    "namestr": ".omega",
+    "type": "generic",
+    "owner": "The Swatch Group Ltd"
+  },
+  {
+    "name": "one",
+    "namestr": ".one",
+    "type": "generic",
+    "owner": "One.com A/S"
+  },
+  {
+    "name": "ong",
+    "namestr": ".ong",
+    "type": "generic",
+    "owner": "Public Interest Registry"
+  },
+  {
+    "name": "onl",
+    "namestr": ".onl",
+    "type": "generic",
+    "owner": "iRegistry GmbH"
+  },
+  {
+    "name": "online",
+    "namestr": ".online",
+    "type": "generic",
+    "owner": "Radix FZC"
+  },
+  {
+    "name": "onyourside",
+    "namestr": ".onyourside",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "ooo",
+    "namestr": ".ooo",
+    "type": "generic",
+    "owner": "INFIBEAM INCORPORATION LIMITED"
+  },
+  {
+    "name": "open",
+    "namestr": ".open",
+    "type": "generic",
+    "owner": "American Express Travel Related Services Company, Inc."
+  },
+  {
+    "name": "oracle",
+    "namestr": ".oracle",
+    "type": "generic",
+    "owner": "Oracle Corporation"
+  },
+  {
+    "name": "orange",
+    "namestr": ".orange",
+    "type": "generic",
+    "owner": "Orange Brand Services Limited"
+  },
+  {
+    "name": "org",
+    "namestr": ".org",
+    "type": "generic",
+    "owner": "Public Interest Registry (PIR)"
+  },
+  {
+    "name": "organic",
+    "namestr": ".organic",
+    "type": "generic",
+    "owner": "Afilias Limited"
+  },
+  {
+    "name": "orientexpress",
+    "namestr": ".orientexpress",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "origins",
+    "namestr": ".origins",
+    "type": "generic",
+    "owner": "The Estée Lauder Companies Inc."
+  },
+  {
+    "name": "osaka",
+    "namestr": ".osaka",
+    "type": "generic",
+    "owner": "Osaka Registry Co., Ltd."
+  },
+  {
+    "name": "otsuka",
+    "namestr": ".otsuka",
+    "type": "generic",
+    "owner": "Otsuka Holdings Co., Ltd."
+  },
+  {
+    "name": "ott",
+    "namestr": ".ott",
+    "type": "generic",
+    "owner": "Dish DBS Corporation"
+  },
+  {
+    "name": "ovh",
+    "namestr": ".ovh",
+    "type": "generic",
+    "owner": "OVH SAS"
+  },
+  {
+    "name": "pa",
+    "namestr": ".pa",
+    "type": "country-code",
+    "owner": "Universidad Tecnologica de Panama"
+  },
+  {
+    "name": "page",
+    "namestr": ".page",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "pamperedchef",
+    "namestr": ".pamperedchef",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "panasonic",
+    "namestr": ".panasonic",
+    "type": "generic",
+    "owner": "Panasonic Corporation"
+  },
+  {
+    "name": "panerai",
+    "namestr": ".panerai",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "paris",
+    "namestr": ".paris",
+    "type": "generic",
+    "owner": "City of Paris"
+  },
+  {
+    "name": "pars",
+    "namestr": ".pars",
+    "type": "generic",
+    "owner": "Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti."
+  },
+  {
+    "name": "partners",
+    "namestr": ".partners",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "parts",
+    "namestr": ".parts",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "party",
+    "namestr": ".party",
+    "type": "generic",
+    "owner": "Blue Sky Registry Limited"
+  },
+  {
+    "name": "passagens",
+    "namestr": ".passagens",
+    "type": "generic",
+    "owner": "Travel Reservations SRL"
+  },
+  {
+    "name": "pay",
+    "namestr": ".pay",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "pccw",
+    "namestr": ".pccw",
+    "type": "generic",
+    "owner": "PCCW Enterprises Limited"
+  },
+  {
+    "name": "pe",
+    "namestr": ".pe",
+    "type": "country-code",
+    "owner": "Red Cientifica Peruana"
+  },
+  {
+    "name": "pet",
+    "namestr": ".pet",
+    "type": "generic",
+    "owner": "Afilias Limited"
+  },
+  {
+    "name": "pf",
+    "namestr": ".pf",
+    "type": "country-code",
+    "owner": "Gouvernement de la Polynésie française"
+  },
+  {
+    "name": "pfizer",
+    "namestr": ".pfizer",
+    "type": "generic",
+    "owner": "Pfizer Inc."
+  },
+  {
+    "name": "ph",
+    "namestr": ".ph",
+    "type": "country-code",
+    "owner": "PH Domain Foundation"
+  },
+  {
+    "name": "pharmacy",
+    "namestr": ".pharmacy",
+    "type": "generic",
+    "owner": "National Association of Boards of Pharmacy"
+  },
+  {
+    "name": "phd",
+    "namestr": ".phd",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "philips",
+    "namestr": ".philips",
+    "type": "generic",
+    "owner": "Koninklijke Philips N.V."
+  },
+  {
+    "name": "phone",
+    "namestr": ".phone",
+    "type": "generic",
+    "owner": "Dish DBS Corporation"
+  },
+  {
+    "name": "photo",
+    "namestr": ".photo",
+    "type": "generic",
+    "owner": "Registry Services, LLC"
+  },
+  {
+    "name": "photography",
+    "namestr": ".photography",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "photos",
+    "namestr": ".photos",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "physio",
+    "namestr": ".physio",
+    "type": "generic",
+    "owner": "PhysBiz Pty Ltd"
+  },
+  {
+    "name": "piaget",
+    "namestr": ".piaget",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "pics",
+    "namestr": ".pics",
+    "type": "generic",
+    "owner": "XYZ.COM LLC"
+  },
+  {
+    "name": "pictet",
+    "namestr": ".pictet",
+    "type": "generic",
+    "owner": "Pictet Europe S.A."
+  },
+  {
+    "name": "pictures",
+    "namestr": ".pictures",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "pid",
+    "namestr": ".pid",
+    "type": "generic",
+    "owner": "Top Level Spectrum, Inc."
+  },
+  {
+    "name": "pin",
+    "namestr": ".pin",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "ping",
+    "namestr": ".ping",
+    "type": "generic",
+    "owner": "Ping Registry Provider, Inc."
+  },
+  {
+    "name": "pink",
+    "namestr": ".pink",
+    "type": "generic",
+    "owner": "Afilias Limited"
+  },
+  {
+    "name": "pioneer",
+    "namestr": ".pioneer",
+    "type": "generic",
+    "owner": "Pioneer Corporation"
+  },
+  {
+    "name": "pizza",
+    "namestr": ".pizza",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "pk",
+    "namestr": ".pk",
+    "type": "country-code",
+    "owner": "PKNIC"
+  },
+  {
+    "name": "pl",
+    "namestr": ".pl",
+    "type": "country-code",
+    "owner": "Research and Academic Computer Network"
+  },
+  {
+    "name": "place",
+    "namestr": ".place",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "play",
+    "namestr": ".play",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "playstation",
+    "namestr": ".playstation",
+    "type": "generic",
+    "owner": "Sony Computer Entertainment Inc."
+  },
+  {
+    "name": "plumbing",
+    "namestr": ".plumbing",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "plus",
+    "namestr": ".plus",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "pm",
+    "namestr": ".pm",
+    "type": "country-code",
+    "owner": "Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)"
+  },
+  {
+    "name": "pn",
+    "namestr": ".pn",
+    "type": "country-code",
+    "owner": "Pitcairn Island Administration"
+  },
+  {
+    "name": "pnc",
+    "namestr": ".pnc",
+    "type": "generic",
+    "owner": "PNC Domain Co., LLC"
+  },
+  {
+    "name": "pohl",
+    "namestr": ".pohl",
+    "type": "generic",
+    "owner": "Deutsche Vermögensberatung Aktiengesellschaft DVAG"
+  },
+  {
+    "name": "poker",
+    "namestr": ".poker",
+    "type": "generic",
+    "owner": "Afilias Limited"
+  },
+  {
+    "name": "politie",
+    "namestr": ".politie",
+    "type": "generic",
+    "owner": "Politie Nederland"
+  },
+  {
+    "name": "porn",
+    "namestr": ".porn",
+    "type": "generic",
+    "owner": "ICM Registry PN LLC"
+  },
+  {
+    "name": "post",
+    "namestr": ".post",
+    "type": "sponsored",
+    "owner": "Universal Postal Union"
+  },
+  {
+    "name": "pr",
+    "namestr": ".pr",
+    "type": "country-code",
+    "owner": "Gauss Research Laboratory Inc."
+  },
+  {
+    "name": "pramerica",
+    "namestr": ".pramerica",
+    "type": "generic",
+    "owner": "Prudential Financial, Inc."
+  },
+  {
+    "name": "praxi",
+    "namestr": ".praxi",
+    "type": "generic",
+    "owner": "Praxi S.p.A."
+  },
+  {
+    "name": "press",
+    "namestr": ".press",
+    "type": "generic",
+    "owner": "Radix FZC"
+  },
+  {
+    "name": "prime",
+    "namestr": ".prime",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "pro",
+    "namestr": ".pro",
+    "type": "generic-restricted",
+    "owner": "Afilias Limited"
+  },
+  {
+    "name": "prod",
+    "namestr": ".prod",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "productions",
+    "namestr": ".productions",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "prof",
+    "namestr": ".prof",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "progressive",
+    "namestr": ".progressive",
+    "type": "generic",
+    "owner": "Progressive Casualty Insurance Company"
+  },
+  {
+    "name": "promo",
+    "namestr": ".promo",
+    "type": "generic",
+    "owner": "Afilias Limited"
+  },
+  {
+    "name": "properties",
+    "namestr": ".properties",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "property",
+    "namestr": ".property",
+    "type": "generic",
+    "owner": "Internet Naming Co."
+  },
+  {
+    "name": "protection",
+    "namestr": ".protection",
+    "type": "generic",
+    "owner": "XYZ.COM LLC"
+  },
+  {
+    "name": "pru",
+    "namestr": ".pru",
+    "type": "generic",
+    "owner": "Prudential Financial, Inc."
+  },
+  {
+    "name": "prudential",
+    "namestr": ".prudential",
+    "type": "generic",
+    "owner": "Prudential Financial, Inc."
+  },
+  {
+    "name": "pt",
+    "namestr": ".pt",
+    "type": "country-code",
+    "owner": "Associação DNS.PT"
+  },
+  {
+    "name": "pub",
+    "namestr": ".pub",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "pw",
+    "namestr": ".pw",
+    "type": "country-code",
+    "owner": "Micronesia Investment and Development Corporation"
+  },
+  {
+    "name": "pwc",
+    "namestr": ".pwc",
+    "type": "generic",
+    "owner": "PricewaterhouseCoopers LLP"
+  },
+  {
+    "name": "py",
+    "namestr": ".py",
+    "type": "country-code",
+    "owner": "NIC-PY"
+  },
+  {
+    "name": "qa",
+    "namestr": ".qa",
+    "type": "country-code",
+    "owner": "Communications Regulatory Authority"
+  },
+  {
+    "name": "qpon",
+    "namestr": ".qpon",
+    "type": "generic",
+    "owner": "DOTQPON LLC."
+  },
+  {
+    "name": "quebec",
+    "namestr": ".quebec",
+    "type": "generic",
+    "owner": "PointQuébec Inc"
+  },
+  {
+    "name": "quest",
+    "namestr": ".quest",
+    "type": "generic",
+    "owner": "XYZ.COM LLC"
+  },
+  {
+    "name": "qvc",
+    "namestr": ".qvc",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "racing",
+    "namestr": ".racing",
+    "type": "generic",
+    "owner": "Premier Registry Limited"
+  },
+  {
+    "name": "radio",
+    "namestr": ".radio",
+    "type": "generic",
+    "owner": "European Broadcasting Union (EBU)"
+  },
+  {
+    "name": "raid",
+    "namestr": ".raid",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "re",
+    "namestr": ".re",
+    "type": "country-code",
+    "owner": "Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)"
+  },
+  {
+    "name": "read",
+    "namestr": ".read",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "realestate",
+    "namestr": ".realestate",
+    "type": "generic",
+    "owner": "dotRealEstate LLC"
+  },
+  {
+    "name": "realtor",
+    "namestr": ".realtor",
+    "type": "generic",
+    "owner": "Real Estate Domains LLC"
+  },
+  {
+    "name": "realty",
+    "namestr": ".realty",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "recipes",
+    "namestr": ".recipes",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "red",
+    "namestr": ".red",
+    "type": "generic",
+    "owner": "Afilias Limited"
+  },
+  {
+    "name": "redstone",
+    "namestr": ".redstone",
+    "type": "generic",
+    "owner": "Redstone Haute Couture Co., Ltd."
+  },
+  {
+    "name": "redumbrella",
+    "namestr": ".redumbrella",
+    "type": "generic",
+    "owner": "Travelers TLD, LLC"
+  },
+  {
+    "name": "rehab",
+    "namestr": ".rehab",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "reise",
+    "namestr": ".reise",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "reisen",
+    "namestr": ".reisen",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "reit",
+    "namestr": ".reit",
+    "type": "generic",
+    "owner": "National Association of Real Estate Investment Trusts, Inc."
+  },
+  {
+    "name": "reliance",
+    "namestr": ".reliance",
+    "type": "generic",
+    "owner": "Reliance Industries Limited"
+  },
+  {
+    "name": "ren",
+    "namestr": ".ren",
+    "type": "generic",
+    "owner": "ZDNS International Limited"
+  },
+  {
+    "name": "rent",
+    "namestr": ".rent",
+    "type": "generic",
+    "owner": "XYZ.COM LLC"
+  },
+  {
+    "name": "rentals",
+    "namestr": ".rentals",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "repair",
+    "namestr": ".repair",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "report",
+    "namestr": ".report",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "republican",
+    "namestr": ".republican",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "rest",
+    "namestr": ".rest",
+    "type": "generic",
+    "owner": "Punto 2012 Sociedad Anonima Promotora de Inversion de Capital Variable"
+  },
+  {
+    "name": "restaurant",
+    "namestr": ".restaurant",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "review",
+    "namestr": ".review",
+    "type": "generic",
+    "owner": "dot Review Limited"
+  },
+  {
+    "name": "reviews",
+    "namestr": ".reviews",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "rexroth",
+    "namestr": ".rexroth",
+    "type": "generic",
+    "owner": "Robert Bosch GMBH"
+  },
+  {
+    "name": "rich",
+    "namestr": ".rich",
+    "type": "generic",
+    "owner": "iRegistry GmbH"
+  },
+  {
+    "name": "richardli",
+    "namestr": ".richardli",
+    "type": "generic",
+    "owner": "Pacific Century Asset Management (HK) Limited"
+  },
+  {
+    "name": "ricoh",
+    "namestr": ".ricoh",
+    "type": "generic",
+    "owner": "Ricoh Company, Ltd."
+  },
+  {
+    "name": "rightathome",
+    "namestr": ".rightathome",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "ril",
+    "namestr": ".ril",
+    "type": "generic",
+    "owner": "Reliance Industries Limited"
+  },
+  {
+    "name": "rio",
+    "namestr": ".rio",
+    "type": "generic",
+    "owner": "Empresa Municipal de Informática SA - IPLANRIO"
+  },
+  {
+    "name": "rip",
+    "namestr": ".rip",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "rmit",
+    "namestr": ".rmit",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "ro",
+    "namestr": ".ro",
+    "type": "country-code",
+    "owner": "National Institute for R&amp;D in Informatics"
+  },
+  {
+    "name": "rocher",
+    "namestr": ".rocher",
+    "type": "generic",
+    "owner": "Ferrero Trading Lux S.A."
+  },
+  {
+    "name": "rocks",
+    "namestr": ".rocks",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "rodeo",
+    "namestr": ".rodeo",
+    "type": "generic",
+    "owner": "Registry Services, LLC"
+  },
+  {
+    "name": "rogers",
+    "namestr": ".rogers",
+    "type": "generic",
+    "owner": "Rogers Communications Canada Inc."
+  },
+  {
+    "name": "room",
+    "namestr": ".room",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "rs",
+    "namestr": ".rs",
+    "type": "country-code",
+    "owner": "Serbian National Internet Domain Registry (RNIDS)"
+  },
+  {
+    "name": "rsvp",
+    "namestr": ".rsvp",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "ru",
+    "namestr": ".ru",
+    "type": "country-code",
+    "owner": "Coordination Center for TLD RU"
+  },
+  {
+    "name": "rugby",
+    "namestr": ".rugby",
+    "type": "generic",
+    "owner": "World Rugby Strategic Developments Limited"
+  },
+  {
+    "name": "ruhr",
+    "namestr": ".ruhr",
+    "type": "generic",
+    "owner": "dotSaarland GmbH"
+  },
+  {
+    "name": "run",
+    "namestr": ".run",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "rw",
+    "namestr": ".rw",
+    "type": "country-code",
+    "owner": "Rwanda Internet Community and Technology  Alliance (RICTA) Ltd"
+  },
+  {
+    "name": "rwe",
+    "namestr": ".rwe",
+    "type": "generic",
+    "owner": "RWE AG"
+  },
+  {
+    "name": "ryukyu",
+    "namestr": ".ryukyu",
+    "type": "generic",
+    "owner": "BRregistry, Inc."
+  },
+  {
+    "name": "sa",
+    "namestr": ".sa",
+    "type": "country-code",
+    "owner": "Communications and Information Technology Commission"
+  },
+  {
+    "name": "saarland",
+    "namestr": ".saarland",
+    "type": "generic",
+    "owner": "dotSaarland GmbH"
+  },
+  {
+    "name": "safe",
+    "namestr": ".safe",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "safety",
+    "namestr": ".safety",
+    "type": "generic",
+    "owner": "Safety Registry Services, LLC."
+  },
+  {
+    "name": "sakura",
+    "namestr": ".sakura",
+    "type": "generic",
+    "owner": "SAKURA internet Inc."
+  },
+  {
+    "name": "sale",
+    "namestr": ".sale",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "salon",
+    "namestr": ".salon",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "samsclub",
+    "namestr": ".samsclub",
+    "type": "generic",
+    "owner": "Wal-Mart Stores, Inc."
+  },
+  {
+    "name": "samsung",
+    "namestr": ".samsung",
+    "type": "generic",
+    "owner": "SAMSUNG SDS CO., LTD"
+  },
+  {
+    "name": "sandvik",
+    "namestr": ".sandvik",
+    "type": "generic",
+    "owner": "Sandvik AB"
+  },
+  {
+    "name": "sandvikcoromant",
+    "namestr": ".sandvikcoromant",
+    "type": "generic",
+    "owner": "Sandvik AB"
+  },
+  {
+    "name": "sanofi",
+    "namestr": ".sanofi",
+    "type": "generic",
+    "owner": "Sanofi"
+  },
+  {
+    "name": "sap",
+    "namestr": ".sap",
+    "type": "generic",
+    "owner": "SAP AG"
+  },
+  {
+    "name": "sapo",
+    "namestr": ".sapo",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "sarl",
+    "namestr": ".sarl",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "sas",
+    "namestr": ".sas",
+    "type": "generic",
+    "owner": "Research IP LLC"
+  },
+  {
+    "name": "save",
+    "namestr": ".save",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "saxo",
+    "namestr": ".saxo",
+    "type": "generic",
+    "owner": "Saxo Bank A/S"
+  },
+  {
+    "name": "sb",
+    "namestr": ".sb",
+    "type": "country-code",
+    "owner": "Solomon Telekom Company Limited"
+  },
+  {
+    "name": "sbi",
+    "namestr": ".sbi",
+    "type": "generic",
+    "owner": "STATE BANK OF INDIA"
+  },
+  {
+    "name": "sbs",
+    "namestr": ".sbs",
+    "type": "generic",
+    "owner": "SPECIAL BROADCASTING SERVICE CORPORATION"
+  },
+  {
+    "name": "sc",
+    "namestr": ".sc",
+    "type": "country-code",
+    "owner": "VCS Pty Ltd"
+  },
+  {
+    "name": "sca",
+    "namestr": ".sca",
+    "type": "generic",
+    "owner": "SVENSKA CELLULOSA AKTIEBOLAGET SCA (publ)"
+  },
+  {
+    "name": "scb",
+    "namestr": ".scb",
+    "type": "generic",
+    "owner": "The Siam Commercial Bank Public Company Limited (&quot;SCB&quot;)"
+  },
+  {
+    "name": "schaeffler",
+    "namestr": ".schaeffler",
+    "type": "generic",
+    "owner": "Schaeffler Technologies AG &amp; Co. KG"
+  },
+  {
+    "name": "schmidt",
+    "namestr": ".schmidt",
+    "type": "generic",
+    "owner": "SCHMIDT GROUPE S.A.S."
+  },
+  {
+    "name": "scholarships",
+    "namestr": ".scholarships",
+    "type": "generic",
+    "owner": "Scholarships.com, LLC"
+  },
+  {
+    "name": "school",
+    "namestr": ".school",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "schule",
+    "namestr": ".schule",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "schwarz",
+    "namestr": ".schwarz",
+    "type": "generic",
+    "owner": "Schwarz Domains und Services GmbH &amp; Co. KG"
+  },
+  {
+    "name": "science",
+    "namestr": ".science",
+    "type": "generic",
+    "owner": "dot Science Limited"
+  },
+  {
+    "name": "scjohnson",
+    "namestr": ".scjohnson",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "scor",
+    "namestr": ".scor",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "scot",
+    "namestr": ".scot",
+    "type": "generic",
+    "owner": "Dot Scot Registry Limited"
+  },
+  {
+    "name": "sd",
+    "namestr": ".sd",
+    "type": "country-code",
+    "owner": "Sudan Internet Society"
+  },
+  {
+    "name": "se",
+    "namestr": ".se",
+    "type": "country-code",
+    "owner": "The Internet Infrastructure Foundation"
+  },
+  {
+    "name": "search",
+    "namestr": ".search",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "seat",
+    "namestr": ".seat",
+    "type": "generic",
+    "owner": "SEAT, S.A. (Sociedad Unipersonal)"
+  },
+  {
+    "name": "secure",
+    "namestr": ".secure",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "security",
+    "namestr": ".security",
+    "type": "generic",
+    "owner": "XYZ.COM LLC"
+  },
+  {
+    "name": "seek",
+    "namestr": ".seek",
+    "type": "generic",
+    "owner": "Seek Limited"
+  },
+  {
+    "name": "select",
+    "namestr": ".select",
+    "type": "generic",
+    "owner": "Registry Services, LLC"
+  },
+  {
+    "name": "sener",
+    "namestr": ".sener",
+    "type": "generic",
+    "owner": "Sener Ingeniería y Sistemas, S.A."
+  },
+  {
+    "name": "services",
+    "namestr": ".services",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "ses",
+    "namestr": ".ses",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "seven",
+    "namestr": ".seven",
+    "type": "generic",
+    "owner": "Seven West Media Ltd"
+  },
+  {
+    "name": "sew",
+    "namestr": ".sew",
+    "type": "generic",
+    "owner": "SEW-EURODRIVE GmbH &amp; Co KG"
+  },
+  {
+    "name": "sex",
+    "namestr": ".sex",
+    "type": "generic",
+    "owner": "ICM Registry SX LLC"
+  },
+  {
+    "name": "sexy",
+    "namestr": ".sexy",
+    "type": "generic",
+    "owner": "Internet Naming Co."
+  },
+  {
+    "name": "sfr",
+    "namestr": ".sfr",
+    "type": "generic",
+    "owner": "Societe Francaise du Radiotelephone - SFR"
+  },
+  {
+    "name": "sg",
+    "namestr": ".sg",
+    "type": "country-code",
+    "owner": "Singapore Network Information Centre (SGNIC) Pte Ltd"
+  },
+  {
+    "name": "sh",
+    "namestr": ".sh",
+    "type": "country-code",
+    "owner": "Government of St. Helena"
+  },
+  {
+    "name": "shangrila",
+    "namestr": ".shangrila",
+    "type": "generic",
+    "owner": "Shangri-La International Hotel Management Limited"
+  },
+  {
+    "name": "sharp",
+    "namestr": ".sharp",
+    "type": "generic",
+    "owner": "Sharp Corporation"
+  },
+  {
+    "name": "shaw",
+    "namestr": ".shaw",
+    "type": "generic",
+    "owner": "Shaw Cablesystems G.P."
+  },
+  {
+    "name": "shell",
+    "namestr": ".shell",
+    "type": "generic",
+    "owner": "Shell Information Technology International Inc"
+  },
+  {
+    "name": "shia",
+    "namestr": ".shia",
+    "type": "generic",
+    "owner": "Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti."
+  },
+  {
+    "name": "shiksha",
+    "namestr": ".shiksha",
+    "type": "generic",
+    "owner": "Afilias Limited"
+  },
+  {
+    "name": "shoes",
+    "namestr": ".shoes",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "shop",
+    "namestr": ".shop",
+    "type": "generic",
+    "owner": "GMO Registry, Inc."
+  },
+  {
+    "name": "shopping",
+    "namestr": ".shopping",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "shouji",
+    "namestr": ".shouji",
+    "type": "generic",
+    "owner": "QIHOO 360 TECHNOLOGY CO. LTD."
+  },
+  {
+    "name": "show",
+    "namestr": ".show",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "showtime",
+    "namestr": ".showtime",
+    "type": "generic",
+    "owner": "CBS Domains Inc."
+  },
+  {
+    "name": "shriram",
+    "namestr": ".shriram",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "si",
+    "namestr": ".si",
+    "type": "country-code",
+    "owner": "Academic and Research Network of Slovenia (ARNES)"
+  },
+  {
+    "name": "silk",
+    "namestr": ".silk",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "sina",
+    "namestr": ".sina",
+    "type": "generic",
+    "owner": "Sina Corporation"
+  },
+  {
+    "name": "singles",
+    "namestr": ".singles",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "site",
+    "namestr": ".site",
+    "type": "generic",
+    "owner": "Radix FZC"
+  },
+  {
+    "name": "sj",
+    "namestr": ".sj",
+    "type": "country-code",
+    "owner": "Norid A/S"
+  },
+  {
+    "name": "sk",
+    "namestr": ".sk",
+    "type": "country-code",
+    "owner": "SK-NIC, a.s."
+  },
+  {
+    "name": "ski",
+    "namestr": ".ski",
+    "type": "generic",
+    "owner": "Afilias Limited"
+  },
+  {
+    "name": "skin",
+    "namestr": ".skin",
+    "type": "generic",
+    "owner": "XYZ.COM LLC"
+  },
+  {
+    "name": "sky",
+    "namestr": ".sky",
+    "type": "generic",
+    "owner": "Sky International AG"
+  },
+  {
+    "name": "skype",
+    "namestr": ".skype",
+    "type": "generic",
+    "owner": "Microsoft Corporation"
+  },
+  {
+    "name": "sl",
+    "namestr": ".sl",
+    "type": "country-code",
+    "owner": "Sierratel"
+  },
+  {
+    "name": "sling",
+    "namestr": ".sling",
+    "type": "generic",
+    "owner": "Hughes Satellite Systems Corporation"
+  },
+  {
+    "name": "sm",
+    "namestr": ".sm",
+    "type": "country-code",
+    "owner": "Telecom Italia San Marino S.p.A."
+  },
+  {
+    "name": "smart",
+    "namestr": ".smart",
+    "type": "generic",
+    "owner": "Smart Communications, Inc. (SMART)"
+  },
+  {
+    "name": "smile",
+    "namestr": ".smile",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "sn",
+    "namestr": ".sn",
+    "type": "country-code",
+    "owner": "Universite Cheikh Anta Diop"
+  },
+  {
+    "name": "sncf",
+    "namestr": ".sncf",
+    "type": "generic",
+    "owner": "SNCF (Société Nationale des Chemins de fer Francais)"
+  },
+  {
+    "name": "so",
+    "namestr": ".so",
+    "type": "country-code",
+    "owner": "Ministry of Post and Telecommunications"
+  },
+  {
+    "name": "soccer",
+    "namestr": ".soccer",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "social",
+    "namestr": ".social",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "softbank",
+    "namestr": ".softbank",
+    "type": "generic",
+    "owner": "SoftBank Group Corp."
+  },
+  {
+    "name": "software",
+    "namestr": ".software",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "sohu",
+    "namestr": ".sohu",
+    "type": "generic",
+    "owner": "Sohu.com Limited"
+  },
+  {
+    "name": "solar",
+    "namestr": ".solar",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "solutions",
+    "namestr": ".solutions",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "song",
+    "namestr": ".song",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "sony",
+    "namestr": ".sony",
+    "type": "generic",
+    "owner": "Sony Corporation"
+  },
+  {
+    "name": "soy",
+    "namestr": ".soy",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "spa",
+    "namestr": ".spa",
+    "type": "generic",
+    "owner": "Asia Spa and Wellness Promotion Council Limited"
+  },
+  {
+    "name": "space",
+    "namestr": ".space",
+    "type": "generic",
+    "owner": "Radix FZC"
+  },
+  {
+    "name": "spiegel",
+    "namestr": ".spiegel",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "sport",
+    "namestr": ".sport",
+    "type": "generic",
+    "owner": "Global Association of International Sports Federations (GAISF)"
+  },
+  {
+    "name": "spot",
+    "namestr": ".spot",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "spreadbetting",
+    "namestr": ".spreadbetting",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "sr",
+    "namestr": ".sr",
+    "type": "country-code",
+    "owner": "Telesur"
+  },
+  {
+    "name": "srl",
+    "namestr": ".srl",
+    "type": "generic",
+    "owner": "InterNetX Corp."
+  },
+  {
+    "name": "srt",
+    "namestr": ".srt",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "ss",
+    "namestr": ".ss",
+    "type": "country-code",
+    "owner": "National Communication Authority (NCA)"
+  },
+  {
+    "name": "st",
+    "namestr": ".st",
+    "type": "country-code",
+    "owner": "Tecnisys"
+  },
+  {
+    "name": "stada",
+    "namestr": ".stada",
+    "type": "generic",
+    "owner": "STADA Arzneimittel AG"
+  },
+  {
+    "name": "staples",
+    "namestr": ".staples",
+    "type": "generic",
+    "owner": "Staples, Inc."
+  },
+  {
+    "name": "star",
+    "namestr": ".star",
+    "type": "generic",
+    "owner": "Star India Private Limited"
+  },
+  {
+    "name": "starhub",
+    "namestr": ".starhub",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "statebank",
+    "namestr": ".statebank",
+    "type": "generic",
+    "owner": "STATE BANK OF INDIA"
+  },
+  {
+    "name": "statefarm",
+    "namestr": ".statefarm",
+    "type": "generic",
+    "owner": "State Farm Mutual Automobile Insurance Company"
+  },
+  {
+    "name": "statoil",
+    "namestr": ".statoil",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "stc",
+    "namestr": ".stc",
+    "type": "generic",
+    "owner": "Saudi Telecom Company"
+  },
+  {
+    "name": "stcgroup",
+    "namestr": ".stcgroup",
+    "type": "generic",
+    "owner": "Saudi Telecom Company"
+  },
+  {
+    "name": "stockholm",
+    "namestr": ".stockholm",
+    "type": "generic",
+    "owner": "Stockholms kommun"
+  },
+  {
+    "name": "storage",
+    "namestr": ".storage",
+    "type": "generic",
+    "owner": "XYZ.COM LLC"
+  },
+  {
+    "name": "store",
+    "namestr": ".store",
+    "type": "generic",
+    "owner": "Radix FZC"
+  },
+  {
+    "name": "stream",
+    "namestr": ".stream",
+    "type": "generic",
+    "owner": "dot Stream Limited"
+  },
+  {
+    "name": "studio",
+    "namestr": ".studio",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "study",
+    "namestr": ".study",
+    "type": "generic",
+    "owner": "Registry Services, LLC"
+  },
+  {
+    "name": "style",
+    "namestr": ".style",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "sucks",
+    "namestr": ".sucks",
+    "type": "generic",
+    "owner": "Vox Populi Registry Ltd."
+  },
+  {
+    "name": "supplies",
+    "namestr": ".supplies",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "supply",
+    "namestr": ".supply",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "support",
+    "namestr": ".support",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "surf",
+    "namestr": ".surf",
+    "type": "generic",
+    "owner": "Registry Services, LLC"
+  },
+  {
+    "name": "surgery",
+    "namestr": ".surgery",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "suzuki",
+    "namestr": ".suzuki",
+    "type": "generic",
+    "owner": "SUZUKI MOTOR CORPORATION"
+  },
+  {
+    "name": "sv",
+    "namestr": ".sv",
+    "type": "country-code",
+    "owner": "SVNet"
+  },
+  {
+    "name": "swatch",
+    "namestr": ".swatch",
+    "type": "generic",
+    "owner": "The Swatch Group Ltd"
+  },
+  {
+    "name": "swiftcover",
+    "namestr": ".swiftcover",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "swiss",
+    "namestr": ".swiss",
+    "type": "generic",
+    "owner": "Swiss Confederation"
+  },
+  {
+    "name": "sx",
+    "namestr": ".sx",
+    "type": "country-code",
+    "owner": "SX Registry SA B.V."
+  },
+  {
+    "name": "sy",
+    "namestr": ".sy",
+    "type": "country-code",
+    "owner": "National Agency for Network Services (NANS)"
+  },
+  {
+    "name": "sydney",
+    "namestr": ".sydney",
+    "type": "generic",
+    "owner": "State of New South Wales, Department of Premier and Cabinet"
+  },
+  {
+    "name": "symantec",
+    "namestr": ".symantec",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "systems",
+    "namestr": ".systems",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "tab",
+    "namestr": ".tab",
+    "type": "generic",
+    "owner": "Tabcorp Holdings Limited"
+  },
+  {
+    "name": "taipei",
+    "namestr": ".taipei",
+    "type": "generic",
+    "owner": "Taipei City Government"
+  },
+  {
+    "name": "talk",
+    "namestr": ".talk",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "taobao",
+    "namestr": ".taobao",
+    "type": "generic",
+    "owner": "Alibaba Group Holding Limited"
+  },
+  {
+    "name": "target",
+    "namestr": ".target",
+    "type": "generic",
+    "owner": "Target Domain Holdings, LLC"
+  },
+  {
+    "name": "tatamotors",
+    "namestr": ".tatamotors",
+    "type": "generic",
+    "owner": "Tata Motors Ltd"
+  },
+  {
+    "name": "tatar",
+    "namestr": ".tatar",
+    "type": "generic",
+    "owner": "Limited Liability Company &quot;Coordination Center of Regional Domain of Tatarstan Republic&quot;"
+  },
+  {
+    "name": "tattoo",
+    "namestr": ".tattoo",
+    "type": "generic",
+    "owner": "Registry Services, LLC"
+  },
+  {
+    "name": "tax",
+    "namestr": ".tax",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "taxi",
+    "namestr": ".taxi",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "tc",
+    "namestr": ".tc",
+    "type": "country-code",
+    "owner": "Melrex TC"
+  },
+  {
+    "name": "tci",
+    "namestr": ".tci",
+    "type": "generic",
+    "owner": "Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti."
+  },
+  {
+    "name": "td",
+    "namestr": ".td",
+    "type": "country-code",
+    "owner": "l&#x27;Agence de Développement des Technologies de l&#x27;Information et de la Communication (ADETIC)"
+  },
+  {
+    "name": "tdk",
+    "namestr": ".tdk",
+    "type": "generic",
+    "owner": "TDK Corporation"
+  },
+  {
+    "name": "team",
+    "namestr": ".team",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "tech",
+    "namestr": ".tech",
+    "type": "generic",
+    "owner": "Radix FZC"
+  },
+  {
+    "name": "technology",
+    "namestr": ".technology",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "tel",
+    "namestr": ".tel",
+    "type": "sponsored",
+    "owner": "Telnames Ltd."
+  },
+  {
+    "name": "telecity",
+    "namestr": ".telecity",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "telefonica",
+    "namestr": ".telefonica",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "temasek",
+    "namestr": ".temasek",
+    "type": "generic",
+    "owner": "Temasek Holdings (Private) Limited"
+  },
+  {
+    "name": "tennis",
+    "namestr": ".tennis",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "teva",
+    "namestr": ".teva",
+    "type": "generic",
+    "owner": "Teva Pharmaceutical Industries Limited"
+  },
+  {
+    "name": "tf",
+    "namestr": ".tf",
+    "type": "country-code",
+    "owner": "Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)"
+  },
+  {
+    "name": "tg",
+    "namestr": ".tg",
+    "type": "country-code",
+    "owner": "Autorité de Régulation des Communications Electroniques et des Postes (ARCEP)"
+  },
+  {
+    "name": "th",
+    "namestr": ".th",
+    "type": "country-code",
+    "owner": "Thai Network Information Center Foundation"
+  },
+  {
+    "name": "thd",
+    "namestr": ".thd",
+    "type": "generic",
+    "owner": "Home Depot Product Authority, LLC"
+  },
+  {
+    "name": "theater",
+    "namestr": ".theater",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "theatre",
+    "namestr": ".theatre",
+    "type": "generic",
+    "owner": "XYZ.COM LLC"
+  },
+  {
+    "name": "tiaa",
+    "namestr": ".tiaa",
+    "type": "generic",
+    "owner": "Teachers Insurance and Annuity Association of America"
+  },
+  {
+    "name": "tickets",
+    "namestr": ".tickets",
+    "type": "generic",
+    "owner": "XYZ.COM LLC"
+  },
+  {
+    "name": "tienda",
+    "namestr": ".tienda",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "tiffany",
+    "namestr": ".tiffany",
+    "type": "generic",
+    "owner": "Tiffany and Company"
+  },
+  {
+    "name": "tips",
+    "namestr": ".tips",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "tires",
+    "namestr": ".tires",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "tirol",
+    "namestr": ".tirol",
+    "type": "generic",
+    "owner": "punkt Tirol GmbH"
+  },
+  {
+    "name": "tj",
+    "namestr": ".tj",
+    "type": "country-code",
+    "owner": "Information Technology Center"
+  },
+  {
+    "name": "tjmaxx",
+    "namestr": ".tjmaxx",
+    "type": "generic",
+    "owner": "The TJX Companies, Inc."
+  },
+  {
+    "name": "tjx",
+    "namestr": ".tjx",
+    "type": "generic",
+    "owner": "The TJX Companies, Inc."
+  },
+  {
+    "name": "tk",
+    "namestr": ".tk",
+    "type": "country-code",
+    "owner": "Telecommunication Tokelau Corporation (Teletok)"
+  },
+  {
+    "name": "tkmaxx",
+    "namestr": ".tkmaxx",
+    "type": "generic",
+    "owner": "The TJX Companies, Inc."
+  },
+  {
+    "name": "tl",
+    "namestr": ".tl",
+    "type": "country-code",
+    "owner": "Autoridade Nacional de Comunicações"
+  },
+  {
+    "name": "tm",
+    "namestr": ".tm",
+    "type": "country-code",
+    "owner": "TM Domain Registry Ltd"
+  },
+  {
+    "name": "tmall",
+    "namestr": ".tmall",
+    "type": "generic",
+    "owner": "Alibaba Group Holding Limited"
+  },
+  {
+    "name": "tn",
+    "namestr": ".tn",
+    "type": "country-code",
+    "owner": "Agence Tunisienne d&#x27;Internet"
+  },
+  {
+    "name": "today",
+    "namestr": ".today",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "tokyo",
+    "namestr": ".tokyo",
+    "type": "generic",
+    "owner": "GMO Registry, Inc."
+  },
+  {
+    "name": "tools",
+    "namestr": ".tools",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "top",
+    "namestr": ".top",
+    "type": "generic",
+    "owner": "Jiangsu Bangning Science &amp; Technology Co.,Ltd."
+  },
+  {
+    "name": "toray",
+    "namestr": ".toray",
+    "type": "generic",
+    "owner": "Toray Industries, Inc."
+  },
+  {
+    "name": "toshiba",
+    "namestr": ".toshiba",
+    "type": "generic",
+    "owner": "TOSHIBA Corporation"
+  },
+  {
+    "name": "total",
+    "namestr": ".total",
+    "type": "generic",
+    "owner": "Total SA"
+  },
+  {
+    "name": "tours",
+    "namestr": ".tours",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "town",
+    "namestr": ".town",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "toyota",
+    "namestr": ".toyota",
+    "type": "generic",
+    "owner": "TOYOTA MOTOR CORPORATION"
+  },
+  {
+    "name": "toys",
+    "namestr": ".toys",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "tp",
+    "namestr": ".tp",
+    "type": "country-code",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "tr",
+    "namestr": ".tr",
+    "type": "country-code",
+    "owner": "Bilgi Teknolojileri ve İletişim Kurumu (BTK)"
+  },
+  {
+    "name": "trade",
+    "namestr": ".trade",
+    "type": "generic",
+    "owner": "Elite Registry Limited"
+  },
+  {
+    "name": "trading",
+    "namestr": ".trading",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "training",
+    "namestr": ".training",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "travel",
+    "namestr": ".travel",
+    "type": "sponsored",
+    "owner": "Dog\tBeach, LLC"
+  },
+  {
+    "name": "travelchannel",
+    "namestr": ".travelchannel",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "travelers",
+    "namestr": ".travelers",
+    "type": "generic",
+    "owner": "Travelers TLD, LLC"
+  },
+  {
+    "name": "travelersinsurance",
+    "namestr": ".travelersinsurance",
+    "type": "generic",
+    "owner": "Travelers TLD, LLC"
+  },
+  {
+    "name": "trust",
+    "namestr": ".trust",
+    "type": "generic",
+    "owner": "Internet Naming Co."
+  },
+  {
+    "name": "trv",
+    "namestr": ".trv",
+    "type": "generic",
+    "owner": "Travelers TLD, LLC"
+  },
+  {
+    "name": "tube",
+    "namestr": ".tube",
+    "type": "generic",
+    "owner": "Latin American Telecom LLC"
+  },
+  {
+    "name": "tui",
+    "namestr": ".tui",
+    "type": "generic",
+    "owner": "TUI AG"
+  },
+  {
+    "name": "tunes",
+    "namestr": ".tunes",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "tushu",
+    "namestr": ".tushu",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "tv",
+    "namestr": ".tv",
+    "type": "country-code",
+    "owner": "Ministry of Justice, Communications and Foreign Affairs"
+  },
+  {
+    "name": "tvs",
+    "namestr": ".tvs",
+    "type": "generic",
+    "owner": "T V SUNDRAM IYENGAR  &amp; SONS PRIVATE LIMITED"
+  },
+  {
+    "name": "tw",
+    "namestr": ".tw",
+    "type": "country-code",
+    "owner": "Taiwan Network Information Center (TWNIC)"
+  },
+  {
+    "name": "tz",
+    "namestr": ".tz",
+    "type": "country-code",
+    "owner": "Tanzania Communications Regulatory Authority"
+  },
+  {
+    "name": "ua",
+    "namestr": ".ua",
+    "type": "country-code",
+    "owner": "Hostmaster Ltd."
+  },
+  {
+    "name": "ubank",
+    "namestr": ".ubank",
+    "type": "generic",
+    "owner": "National Australia Bank Limited"
+  },
+  {
+    "name": "ubs",
+    "namestr": ".ubs",
+    "type": "generic",
+    "owner": "UBS AG"
+  },
+  {
+    "name": "uconnect",
+    "namestr": ".uconnect",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "ug",
+    "namestr": ".ug",
+    "type": "country-code",
+    "owner": "Uganda Online Ltd."
+  },
+  {
+    "name": "uk",
+    "namestr": ".uk",
+    "type": "country-code",
+    "owner": "Nominet UK"
+  },
+  {
+    "name": "um",
+    "namestr": ".um",
+    "type": "country-code",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "unicom",
+    "namestr": ".unicom",
+    "type": "generic",
+    "owner": "China United Network Communications Corporation Limited"
+  },
+  {
+    "name": "university",
+    "namestr": ".university",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "uno",
+    "namestr": ".uno",
+    "type": "generic",
+    "owner": "Radix FZC"
+  },
+  {
+    "name": "uol",
+    "namestr": ".uol",
+    "type": "generic",
+    "owner": "UBN INTERNET LTDA."
+  },
+  {
+    "name": "ups",
+    "namestr": ".ups",
+    "type": "generic",
+    "owner": "UPS Market Driver, Inc."
+  },
+  {
+    "name": "us",
+    "namestr": ".us",
+    "type": "country-code",
+    "owner": "Registry Services, LLC"
+  },
+  {
+    "name": "uy",
+    "namestr": ".uy",
+    "type": "country-code",
+    "owner": "SeCIU - Universidad de la Republica"
+  },
+  {
+    "name": "uz",
+    "namestr": ".uz",
+    "type": "country-code",
+    "owner": "Single Integrator for Creation and Support of State Information Systems UZINFOCOM"
+  },
+  {
+    "name": "va",
+    "namestr": ".va",
+    "type": "country-code",
+    "owner": "Holy See - Vatican City State"
+  },
+  {
+    "name": "vacations",
+    "namestr": ".vacations",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "vana",
+    "namestr": ".vana",
+    "type": "generic",
+    "owner": "Lifestyle Domain Holdings, Inc."
+  },
+  {
+    "name": "vanguard",
+    "namestr": ".vanguard",
+    "type": "generic",
+    "owner": "The Vanguard Group, Inc."
+  },
+  {
+    "name": "vc",
+    "namestr": ".vc",
+    "type": "country-code",
+    "owner": "Ministry of Telecommunications, Science, Technology and Industry"
+  },
+  {
+    "name": "ve",
+    "namestr": ".ve",
+    "type": "country-code",
+    "owner": "Comisión Nacional de Telecomunicaciones (CONATEL)"
+  },
+  {
+    "name": "vegas",
+    "namestr": ".vegas",
+    "type": "generic",
+    "owner": "Dot Vegas, Inc."
+  },
+  {
+    "name": "ventures",
+    "namestr": ".ventures",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "verisign",
+    "namestr": ".verisign",
+    "type": "generic",
+    "owner": "VeriSign, Inc."
+  },
+  {
+    "name": "versicherung",
+    "namestr": ".versicherung",
+    "type": "generic",
+    "owner": "tldbox GmbH"
+  },
+  {
+    "name": "vet",
+    "namestr": ".vet",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "vg",
+    "namestr": ".vg",
+    "type": "country-code",
+    "owner": "Telecommunications Regulatory Commission of the Virgin Islands"
+  },
+  {
+    "name": "vi",
+    "namestr": ".vi",
+    "type": "country-code",
+    "owner": "Virgin Islands Public Telecommunications System, Inc."
+  },
+  {
+    "name": "viajes",
+    "namestr": ".viajes",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "video",
+    "namestr": ".video",
+    "type": "generic",
+    "owner": "Dog Beach, LLC"
+  },
+  {
+    "name": "vig",
+    "namestr": ".vig",
+    "type": "generic",
+    "owner": "VIENNA INSURANCE GROUP AG Wiener Versicherung Gruppe"
+  },
+  {
+    "name": "viking",
+    "namestr": ".viking",
+    "type": "generic",
+    "owner": "Viking River Cruises (Bermuda) Ltd."
+  },
+  {
+    "name": "villas",
+    "namestr": ".villas",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "vin",
+    "namestr": ".vin",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "vip",
+    "namestr": ".vip",
+    "type": "generic",
+    "owner": "Registry Services, LLC"
+  },
+  {
+    "name": "virgin",
+    "namestr": ".virgin",
+    "type": "generic",
+    "owner": "Virgin Enterprises Limited"
+  },
+  {
+    "name": "visa",
+    "namestr": ".visa",
+    "type": "generic",
+    "owner": "Visa Worldwide Pte. Limited"
+  },
+  {
+    "name": "vision",
+    "namestr": ".vision",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "vista",
+    "namestr": ".vista",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "vistaprint",
+    "namestr": ".vistaprint",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "viva",
+    "namestr": ".viva",
+    "type": "generic",
+    "owner": "Saudi Telecom Company"
+  },
+  {
+    "name": "vivo",
+    "namestr": ".vivo",
+    "type": "generic",
+    "owner": "Telefonica Brasil S.A."
+  },
+  {
+    "name": "vlaanderen",
+    "namestr": ".vlaanderen",
+    "type": "generic",
+    "owner": "DNS.be vzw"
+  },
+  {
+    "name": "vn",
+    "namestr": ".vn",
+    "type": "country-code",
+    "owner": "Viet Nam Internet Network Information Center (VNNIC)"
+  },
+  {
+    "name": "vodka",
+    "namestr": ".vodka",
+    "type": "generic",
+    "owner": "Registry Services, LLC"
+  },
+  {
+    "name": "volkswagen",
+    "namestr": ".volkswagen",
+    "type": "generic",
+    "owner": "Volkswagen Group of America Inc."
+  },
+  {
+    "name": "volvo",
+    "namestr": ".volvo",
+    "type": "generic",
+    "owner": "Volvo Holding Sverige Aktiebolag"
+  },
+  {
+    "name": "vote",
+    "namestr": ".vote",
+    "type": "generic",
+    "owner": "Monolith Registry LLC"
+  },
+  {
+    "name": "voting",
+    "namestr": ".voting",
+    "type": "generic",
+    "owner": "Valuetainment Corp."
+  },
+  {
+    "name": "voto",
+    "namestr": ".voto",
+    "type": "generic",
+    "owner": "Monolith Registry LLC"
+  },
+  {
+    "name": "voyage",
+    "namestr": ".voyage",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "vu",
+    "namestr": ".vu",
+    "type": "country-code",
+    "owner": "Telecommunications Radiocommunications and Broadcasting Regulator (TRBR)"
+  },
+  {
+    "name": "vuelos",
+    "namestr": ".vuelos",
+    "type": "generic",
+    "owner": "Travel Reservations SRL"
+  },
+  {
+    "name": "wales",
+    "namestr": ".wales",
+    "type": "generic",
+    "owner": "Nominet UK"
+  },
+  {
+    "name": "walmart",
+    "namestr": ".walmart",
+    "type": "generic",
+    "owner": "Wal-Mart Stores, Inc."
+  },
+  {
+    "name": "walter",
+    "namestr": ".walter",
+    "type": "generic",
+    "owner": "Sandvik AB"
+  },
+  {
+    "name": "wang",
+    "namestr": ".wang",
+    "type": "generic",
+    "owner": "Zodiac Wang Limited"
+  },
+  {
+    "name": "wanggou",
+    "namestr": ".wanggou",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "warman",
+    "namestr": ".warman",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "watch",
+    "namestr": ".watch",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "watches",
+    "namestr": ".watches",
+    "type": "generic",
+    "owner": "Afilias Limited"
+  },
+  {
+    "name": "weather",
+    "namestr": ".weather",
+    "type": "generic",
+    "owner": "International Business Machines Corporation"
+  },
+  {
+    "name": "weatherchannel",
+    "namestr": ".weatherchannel",
+    "type": "generic",
+    "owner": "International Business Machines Corporation"
+  },
+  {
+    "name": "webcam",
+    "namestr": ".webcam",
+    "type": "generic",
+    "owner": "dot Webcam Limited"
+  },
+  {
+    "name": "weber",
+    "namestr": ".weber",
+    "type": "generic",
+    "owner": "Saint-Gobain Weber SA"
+  },
+  {
+    "name": "website",
+    "namestr": ".website",
+    "type": "generic",
+    "owner": "Radix FZC"
+  },
+  {
+    "name": "wed",
+    "namestr": ".wed",
+    "type": "generic",
+    "owner": "Emergency Back-End Registry Operator Program - ICANN"
+  },
+  {
+    "name": "wedding",
+    "namestr": ".wedding",
+    "type": "generic",
+    "owner": "Registry Services, LLC"
+  },
+  {
+    "name": "weibo",
+    "namestr": ".weibo",
+    "type": "generic",
+    "owner": "Sina Corporation"
+  },
+  {
+    "name": "weir",
+    "namestr": ".weir",
+    "type": "generic",
+    "owner": "Weir Group IP Limited"
+  },
+  {
+    "name": "wf",
+    "namestr": ".wf",
+    "type": "country-code",
+    "owner": "Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)"
+  },
+  {
+    "name": "whoswho",
+    "namestr": ".whoswho",
+    "type": "generic",
+    "owner": "Who&#x27;s Who Registry"
+  },
+  {
+    "name": "wien",
+    "namestr": ".wien",
+    "type": "generic",
+    "owner": "punkt.wien GmbH"
+  },
+  {
+    "name": "wiki",
+    "namestr": ".wiki",
+    "type": "generic",
+    "owner": "Registry Services, LLC"
+  },
+  {
+    "name": "williamhill",
+    "namestr": ".williamhill",
+    "type": "generic",
+    "owner": "William Hill Organization Limited"
+  },
+  {
+    "name": "win",
+    "namestr": ".win",
+    "type": "generic",
+    "owner": "First Registry Limited"
+  },
+  {
+    "name": "windows",
+    "namestr": ".windows",
+    "type": "generic",
+    "owner": "Microsoft Corporation"
+  },
+  {
+    "name": "wine",
+    "namestr": ".wine",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "winners",
+    "namestr": ".winners",
+    "type": "generic",
+    "owner": "The TJX Companies, Inc."
+  },
+  {
+    "name": "wme",
+    "namestr": ".wme",
+    "type": "generic",
+    "owner": "William Morris Endeavor Entertainment, LLC"
+  },
+  {
+    "name": "wolterskluwer",
+    "namestr": ".wolterskluwer",
+    "type": "generic",
+    "owner": "Wolters Kluwer N.V."
+  },
+  {
+    "name": "woodside",
+    "namestr": ".woodside",
+    "type": "generic",
+    "owner": "Woodside Petroleum Limited"
+  },
+  {
+    "name": "work",
+    "namestr": ".work",
+    "type": "generic",
+    "owner": "Registry Services, LLC"
+  },
+  {
+    "name": "works",
+    "namestr": ".works",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "world",
+    "namestr": ".world",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "wow",
+    "namestr": ".wow",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "ws",
+    "namestr": ".ws",
+    "type": "country-code",
+    "owner": "Government of Samoa Ministry of Foreign Affairs &amp; Trade"
+  },
+  {
+    "name": "wtc",
+    "namestr": ".wtc",
+    "type": "generic",
+    "owner": "World Trade Centers Association, Inc."
+  },
+  {
+    "name": "wtf",
+    "namestr": ".wtf",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "xbox",
+    "namestr": ".xbox",
+    "type": "generic",
+    "owner": "Microsoft Corporation"
+  },
+  {
+    "name": "xerox",
+    "namestr": ".xerox",
+    "type": "generic",
+    "owner": "Xerox DNHC LLC"
+  },
+  {
+    "name": "xfinity",
+    "namestr": ".xfinity",
+    "type": "generic",
+    "owner": "Comcast IP Holdings I, LLC"
+  },
+  {
+    "name": "xihuan",
+    "namestr": ".xihuan",
+    "type": "generic",
+    "owner": "QIHOO 360 TECHNOLOGY CO. LTD."
+  },
+  {
+    "name": "xin",
+    "namestr": ".xin",
+    "type": "generic",
+    "owner": "Elegant Leader Limited"
+  },
+  {
+    "name": "xn--0zwm56d",
+    "namestr": ".测试",
+    "type": "test",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "xn--11b4c3d",
+    "namestr": ".कॉम",
+    "type": "generic",
+    "owner": "VeriSign Sarl"
+  },
+  {
+    "name": "xn--11b5bs3a9aj6g",
+    "namestr": ".परीक्षा",
+    "type": "test",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "xn--1ck2e1b",
+    "namestr": ".セール",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "xn--1qqw23a",
+    "namestr": ".佛山",
+    "type": "generic",
+    "owner": "Guangzhou YU Wei Information Technology Co., Ltd."
+  },
+  {
+    "name": "xn--2scrj9c",
+    "namestr": ".ಭಾರತ",
+    "type": "country-code",
+    "owner": "National Internet eXchange of India"
+  },
+  {
+    "name": "xn--30rr7y",
+    "namestr": ".慈善",
+    "type": "generic",
+    "owner": "Excellent First Limited"
+  },
+  {
+    "name": "xn--3bst00m",
+    "namestr": ".集团",
+    "type": "generic",
+    "owner": "Eagle Horizon Limited"
+  },
+  {
+    "name": "xn--3ds443g",
+    "namestr": ".在线",
+    "type": "generic",
+    "owner": "TLD REGISTRY LIMITED"
+  },
+  {
+    "name": "xn--3e0b707e",
+    "namestr": ".한국",
+    "type": "country-code",
+    "owner": "KISA (Korea Internet &amp; Security Agency)"
+  },
+  {
+    "name": "xn--3hcrj9c",
+    "namestr": ".ଭାରତ",
+    "type": "country-code",
+    "owner": "National Internet eXchange of India"
+  },
+  {
+    "name": "xn--3oq18vl8pn36a",
+    "namestr": ".大众汽车",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "xn--3pxu8k",
+    "namestr": ".点看",
+    "type": "generic",
+    "owner": "VeriSign Sarl"
+  },
+  {
+    "name": "xn--42c2d9a",
+    "namestr": ".คอม",
+    "type": "generic",
+    "owner": "VeriSign Sarl"
+  },
+  {
+    "name": "xn--45br5cyl",
+    "namestr": ".ভাৰত",
+    "type": "country-code",
+    "owner": "National Internet eXchange of India"
+  },
+  {
+    "name": "xn--45brj9c",
+    "namestr": ".ভারত",
+    "type": "country-code",
+    "owner": "National Internet Exchange of India"
+  },
+  {
+    "name": "xn--45q11c",
+    "namestr": ".八卦",
+    "type": "generic",
+    "owner": "Zodiac Gemini Ltd"
+  },
+  {
+    "name": "xn--4dbrk0ce",
+    "namestr": "&#x200f;.ישראל&#x200e;",
+    "type": "country-code",
+    "owner": "The Israel Internet Association (RA)"
+  },
+  {
+    "name": "xn--4gbrim",
+    "namestr": "&#x200f;.موقع&#x200e;",
+    "type": "generic",
+    "owner": "Helium TLDs Ltd"
+  },
+  {
+    "name": "xn--54b7fta0cc",
+    "namestr": ".বাংলা",
+    "type": "country-code",
+    "owner": "Posts and Telecommunications Division"
+  },
+  {
+    "name": "xn--55qw42g",
+    "namestr": ".公益",
+    "type": "generic",
+    "owner": "China Organizational Name Administration Center"
+  },
+  {
+    "name": "xn--55qx5d",
+    "namestr": ".公司",
+    "type": "generic",
+    "owner": "China Internet Network Information Center(CNNIC)"
+  },
+  {
+    "name": "xn--5su34j936bgsg",
+    "namestr": ".香格里拉",
+    "type": "generic",
+    "owner": "Shangri-La International Hotel Management Limited"
+  },
+  {
+    "name": "xn--5tzm5g",
+    "namestr": ".网站",
+    "type": "generic",
+    "owner": "Global Website TLD Asia Limited"
+  },
+  {
+    "name": "xn--6frz82g",
+    "namestr": ".移动",
+    "type": "generic",
+    "owner": "Afilias Limited"
+  },
+  {
+    "name": "xn--6qq986b3xl",
+    "namestr": ".我爱你",
+    "type": "generic",
+    "owner": "Tycoon Treasure Limited"
+  },
+  {
+    "name": "xn--80adxhks",
+    "namestr": ".москва",
+    "type": "generic",
+    "owner": "Foundation for Assistance for Internet Technologies and Infrastructure Development (FAITID)"
+  },
+  {
+    "name": "xn--80akhbyknj4f",
+    "namestr": ".испытание",
+    "type": "test",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "xn--80ao21a",
+    "namestr": ".қаз",
+    "type": "country-code",
+    "owner": "Association of IT Companies of Kazakhstan"
+  },
+  {
+    "name": "xn--80aqecdr1a",
+    "namestr": ".католик",
+    "type": "generic",
+    "owner": "Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)"
+  },
+  {
+    "name": "xn--80asehdb",
+    "namestr": ".онлайн",
+    "type": "generic",
+    "owner": "CORE Association"
+  },
+  {
+    "name": "xn--80aswg",
+    "namestr": ".сайт",
+    "type": "generic",
+    "owner": "CORE Association"
+  },
+  {
+    "name": "xn--8y0a063a",
+    "namestr": ".联通",
+    "type": "generic",
+    "owner": "China United Network Communications Corporation Limited"
+  },
+  {
+    "name": "xn--90a3ac",
+    "namestr": ".срб",
+    "type": "country-code",
+    "owner": "Serbian National Internet Domain Registry (RNIDS)"
+  },
+  {
+    "name": "xn--90ae",
+    "namestr": ".бг",
+    "type": "country-code",
+    "owner": "Imena.BG AD"
+  },
+  {
+    "name": "xn--90ais",
+    "namestr": ".бел",
+    "type": "country-code",
+    "owner": "Belarusian Cloud Technologies LLC"
+  },
+  {
+    "name": "xn--9dbq2a",
+    "namestr": "&#x200f;.קום&#x200e;",
+    "type": "generic",
+    "owner": "VeriSign Sarl"
+  },
+  {
+    "name": "xn--9et52u",
+    "namestr": ".时尚",
+    "type": "generic",
+    "owner": "RISE VICTORY LIMITED"
+  },
+  {
+    "name": "xn--9krt00a",
+    "namestr": ".微博",
+    "type": "generic",
+    "owner": "Sina Corporation"
+  },
+  {
+    "name": "xn--9t4b11yi5a",
+    "namestr": ".테스트",
+    "type": "test",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "xn--b4w605ferd",
+    "namestr": ".淡马锡",
+    "type": "generic",
+    "owner": "Temasek Holdings (Private) Limited"
+  },
+  {
+    "name": "xn--bck1b9a5dre4c",
+    "namestr": ".ファッション",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "xn--c1avg",
+    "namestr": ".орг",
+    "type": "generic",
+    "owner": "Public Interest Registry"
+  },
+  {
+    "name": "xn--c2br7g",
+    "namestr": ".नेट",
+    "type": "generic",
+    "owner": "VeriSign Sarl"
+  },
+  {
+    "name": "xn--cck2b3b",
+    "namestr": ".ストア",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "xn--cckwcxetd",
+    "namestr": ".アマゾン",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "xn--cg4bki",
+    "namestr": ".삼성",
+    "type": "generic",
+    "owner": "SAMSUNG SDS CO., LTD"
+  },
+  {
+    "name": "xn--clchc0ea0b2g2a9gcd",
+    "namestr": ".சிங்கப்பூர்",
+    "type": "country-code",
+    "owner": "Singapore Network Information Centre (SGNIC) Pte Ltd"
+  },
+  {
+    "name": "xn--czr694b",
+    "namestr": ".商标",
+    "type": "generic",
+    "owner": "Internet DotTrademark Organisation Limited"
+  },
+  {
+    "name": "xn--czrs0t",
+    "namestr": ".商店",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "xn--czru2d",
+    "namestr": ".商城",
+    "type": "generic",
+    "owner": "Zodiac Aquarius Limited"
+  },
+  {
+    "name": "xn--d1acj3b",
+    "namestr": ".дети",
+    "type": "generic",
+    "owner": "The Foundation for Network Initiatives “The Smart Internet”"
+  },
+  {
+    "name": "xn--d1alf",
+    "namestr": ".мкд",
+    "type": "country-code",
+    "owner": "Macedonian Academic Research Network Skopje"
+  },
+  {
+    "name": "xn--deba0ad",
+    "namestr": "&#x200f;.טעסט&#x200e;",
+    "type": "test",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "xn--e1a4c",
+    "namestr": ".ею",
+    "type": "country-code",
+    "owner": "EURid vzw"
+  },
+  {
+    "name": "xn--eckvdtc9d",
+    "namestr": ".ポイント",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "xn--efvy88h",
+    "namestr": ".新闻",
+    "type": "generic",
+    "owner": "Guangzhou YU Wei Information and Technology Co.,Ltd"
+  },
+  {
+    "name": "xn--estv75g",
+    "namestr": ".工行",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "xn--fct429k",
+    "namestr": ".家電",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "xn--fhbei",
+    "namestr": "&#x200f;.كوم&#x200e;",
+    "type": "generic",
+    "owner": "VeriSign Sarl"
+  },
+  {
+    "name": "xn--fiq228c5hs",
+    "namestr": ".中文网",
+    "type": "generic",
+    "owner": "TLD REGISTRY LIMITED"
+  },
+  {
+    "name": "xn--fiq64b",
+    "namestr": ".中信",
+    "type": "generic",
+    "owner": "CITIC Group Corporation"
+  },
+  {
+    "name": "xn--fiqs8s",
+    "namestr": ".中国",
+    "type": "country-code",
+    "owner": "China Internet Network Information Center (CNNIC)"
+  },
+  {
+    "name": "xn--fiqz9s",
+    "namestr": ".中國",
+    "type": "country-code",
+    "owner": "China Internet Network Information Center (CNNIC)"
+  },
+  {
+    "name": "xn--fjq720a",
+    "namestr": ".娱乐",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "xn--flw351e",
+    "namestr": ".谷歌",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "xn--fpcrj9c3d",
+    "namestr": ".భారత్",
+    "type": "country-code",
+    "owner": "National Internet Exchange of India"
+  },
+  {
+    "name": "xn--fzc2c9e2c",
+    "namestr": ".ලංකා",
+    "type": "country-code",
+    "owner": "LK Domain Registry"
+  },
+  {
+    "name": "xn--fzys8d69uvgm",
+    "namestr": ".電訊盈科",
+    "type": "generic",
+    "owner": "PCCW Enterprises Limited"
+  },
+  {
+    "name": "xn--g2xx48c",
+    "namestr": ".购物",
+    "type": "generic",
+    "owner": "Nawang Heli(Xiamen) Network Service Co., LTD."
+  },
+  {
+    "name": "xn--g6w251d",
+    "namestr": ".測試",
+    "type": "test",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "xn--gckr3f0f",
+    "namestr": ".クラウド",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "xn--gecrj9c",
+    "namestr": ".ભારત",
+    "type": "country-code",
+    "owner": "National Internet Exchange of India"
+  },
+  {
+    "name": "xn--gk3at1e",
+    "namestr": ".通販",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "xn--h2breg3eve",
+    "namestr": ".भारतम्",
+    "type": "country-code",
+    "owner": "National Internet eXchange of India"
+  },
+  {
+    "name": "xn--h2brj9c",
+    "namestr": ".भारत",
+    "type": "country-code",
+    "owner": "National Internet Exchange of India"
+  },
+  {
+    "name": "xn--h2brj9c8c",
+    "namestr": ".भारोत",
+    "type": "country-code",
+    "owner": "National Internet eXchange of India"
+  },
+  {
+    "name": "xn--hgbk6aj7f53bba",
+    "namestr": "&#x200f;.آزمایشی&#x200e;",
+    "type": "test",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "xn--hlcj6aya9esc7a",
+    "namestr": ".பரிட்சை",
+    "type": "test",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "xn--hxt814e",
+    "namestr": ".网店",
+    "type": "generic",
+    "owner": "Zodiac Taurus Ltd."
+  },
+  {
+    "name": "xn--i1b6b1a6a2e",
+    "namestr": ".संगठन",
+    "type": "generic",
+    "owner": "Public Interest Registry"
+  },
+  {
+    "name": "xn--imr513n",
+    "namestr": ".餐厅",
+    "type": "generic",
+    "owner": "Internet DotTrademark Organisation Limited"
+  },
+  {
+    "name": "xn--io0a7i",
+    "namestr": ".网络",
+    "type": "generic",
+    "owner": "China Internet Network Information Center(CNNIC)"
+  },
+  {
+    "name": "xn--j1aef",
+    "namestr": ".ком",
+    "type": "generic",
+    "owner": "VeriSign Sarl"
+  },
+  {
+    "name": "xn--j1amh",
+    "namestr": ".укр",
+    "type": "country-code",
+    "owner": "Ukrainian Network Information Centre (UANIC), Inc."
+  },
+  {
+    "name": "xn--j6w193g",
+    "namestr": ".香港",
+    "type": "country-code",
+    "owner": "Hong Kong Internet Registration Corporation Ltd."
+  },
+  {
+    "name": "xn--jlq480n2rg",
+    "namestr": ".亚马逊",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "xn--jlq61u9w7b",
+    "namestr": ".诺基亚",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "xn--jvr189m",
+    "namestr": ".食品",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "xn--jxalpdlp",
+    "namestr": ".δοκιμή",
+    "type": "test",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "xn--kcrx77d1x4a",
+    "namestr": ".飞利浦",
+    "type": "generic",
+    "owner": "Koninklijke Philips N.V."
+  },
+  {
+    "name": "xn--kgbechtv",
+    "namestr": "&#x200f;.إختبار&#x200e;",
+    "type": "test",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "xn--kprw13d",
+    "namestr": ".台湾",
+    "type": "country-code",
+    "owner": "Taiwan Network Information Center (TWNIC)"
+  },
+  {
+    "name": "xn--kpry57d",
+    "namestr": ".台灣",
+    "type": "country-code",
+    "owner": "Taiwan Network Information Center (TWNIC)"
+  },
+  {
+    "name": "xn--kpu716f",
+    "namestr": ".手表",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "xn--kput3i",
+    "namestr": ".手机",
+    "type": "generic",
+    "owner": "Beijing RITT-Net Technology Development Co., Ltd"
+  },
+  {
+    "name": "xn--l1acc",
+    "namestr": ".мон",
+    "type": "country-code",
+    "owner": "Datacom Co.,Ltd"
+  },
+  {
+    "name": "xn--lgbbat1ad8j",
+    "namestr": "&#x200f;.الجزائر&#x200e;",
+    "type": "country-code",
+    "owner": "CERIST"
+  },
+  {
+    "name": "xn--mgb9awbf",
+    "namestr": "&#x200f;.عمان&#x200e;",
+    "type": "country-code",
+    "owner": "Telecommunications Regulatory Authority (TRA)"
+  },
+  {
+    "name": "xn--mgba3a3ejt",
+    "namestr": "&#x200f;.ارامكو&#x200e;",
+    "type": "generic",
+    "owner": "Aramco Services Company"
+  },
+  {
+    "name": "xn--mgba3a4f16a",
+    "namestr": "&#x200f;.ایران&#x200e;",
+    "type": "country-code",
+    "owner": "Institute for Research in Fundamental Sciences (IPM)"
+  },
+  {
+    "name": "xn--mgba7c0bbn0a",
+    "namestr": "&#x200f;.العليان&#x200e;",
+    "type": "generic",
+    "owner": "Crescent Holding GmbH"
+  },
+  {
+    "name": "xn--mgbaakc7dvf",
+    "namestr": "&#x200f;.اتصالات&#x200e;",
+    "type": "generic",
+    "owner": "Emirates Telecommunications Corporation (trading as Etisalat)"
+  },
+  {
+    "name": "xn--mgbaam7a8h",
+    "namestr": "&#x200f;.امارات&#x200e;",
+    "type": "country-code",
+    "owner": "Telecommunications and Digital Government Regulatory Authority (TDRA)"
+  },
+  {
+    "name": "xn--mgbab2bd",
+    "namestr": "&#x200f;.بازار&#x200e;",
+    "type": "generic",
+    "owner": "CORE Association"
+  },
+  {
+    "name": "xn--mgbah1a3hjkrd",
+    "namestr": "&#x200f;.موريتانيا&#x200e;",
+    "type": "country-code",
+    "owner": "Université de Nouakchott Al Aasriya"
+  },
+  {
+    "name": "xn--mgbai9azgqp6j",
+    "namestr": "&#x200f;.پاکستان&#x200e;",
+    "type": "country-code",
+    "owner": "National Telecommunication Corporation"
+  },
+  {
+    "name": "xn--mgbayh7gpa",
+    "namestr": "&#x200f;.الاردن&#x200e;",
+    "type": "country-code",
+    "owner": "Ministry of Digital Economy and Entrepreneurship (MoDEE)"
+  },
+  {
+    "name": "xn--mgbb9fbpob",
+    "namestr": "&#x200f;.موبايلي&#x200e;",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "xn--mgbbh1a",
+    "namestr": "&#x200f;.بارت&#x200e;",
+    "type": "country-code",
+    "owner": "National Internet eXchange of India"
+  },
+  {
+    "name": "xn--mgbbh1a71e",
+    "namestr": "&#x200f;.بھارت&#x200e;",
+    "type": "country-code",
+    "owner": "National Internet Exchange of India"
+  },
+  {
+    "name": "xn--mgbc0a9azcg",
+    "namestr": "&#x200f;.المغرب&#x200e;",
+    "type": "country-code",
+    "owner": "Agence Nationale de Réglementation des Télécommunications (ANRT)"
+  },
+  {
+    "name": "xn--mgbca7dzdo",
+    "namestr": "&#x200f;.ابوظبي&#x200e;",
+    "type": "generic",
+    "owner": "Abu Dhabi Systems and Information Centre"
+  },
+  {
+    "name": "xn--mgbcpq6gpa1a",
+    "namestr": "&#x200f;.البحرين&#x200e;",
+    "type": "country-code",
+    "owner": "Telecommunications Regulatory Authority (TRA)"
+  },
+  {
+    "name": "xn--mgberp4a5d4ar",
+    "namestr": "&#x200f;.السعودية&#x200e;",
+    "type": "country-code",
+    "owner": "Communications and Information Technology Commission"
+  },
+  {
+    "name": "xn--mgbgu82a",
+    "namestr": "&#x200f;.ڀارت&#x200e;",
+    "type": "country-code",
+    "owner": "National Internet eXchange of India"
+  },
+  {
+    "name": "xn--mgbi4ecexp",
+    "namestr": "&#x200f;.كاثوليك&#x200e;",
+    "type": "generic",
+    "owner": "Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)"
+  },
+  {
+    "name": "xn--mgbpl2fh",
+    "namestr": "&#x200f;.سودان&#x200e;",
+    "type": "country-code",
+    "owner": "Sudan Internet Society"
+  },
+  {
+    "name": "xn--mgbt3dhd",
+    "namestr": "&#x200f;.همراه&#x200e;",
+    "type": "generic",
+    "owner": "Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti."
+  },
+  {
+    "name": "xn--mgbtx2b",
+    "namestr": "&#x200f;.عراق&#x200e;",
+    "type": "country-code",
+    "owner": "Communications and Media Commission (CMC)"
+  },
+  {
+    "name": "xn--mgbx4cd0ab",
+    "namestr": "&#x200f;.مليسيا&#x200e;",
+    "type": "country-code",
+    "owner": "MYNIC Berhad"
+  },
+  {
+    "name": "xn--mix891f",
+    "namestr": ".澳門",
+    "type": "country-code",
+    "owner": "Macao Post and Telecommunications Bureau (CTT)"
+  },
+  {
+    "name": "xn--mk1bu44c",
+    "namestr": ".닷컴",
+    "type": "generic",
+    "owner": "VeriSign Sarl"
+  },
+  {
+    "name": "xn--mxtq1m",
+    "namestr": ".政府",
+    "type": "generic",
+    "owner": "Net-Chinese Co., Ltd."
+  },
+  {
+    "name": "xn--ngbc5azd",
+    "namestr": "&#x200f;.شبكة&#x200e;",
+    "type": "generic",
+    "owner": "International Domain Registry Pty. Ltd."
+  },
+  {
+    "name": "xn--ngbe9e0a",
+    "namestr": "&#x200f;.بيتك&#x200e;",
+    "type": "generic",
+    "owner": "Kuwait Finance House"
+  },
+  {
+    "name": "xn--ngbrx",
+    "namestr": "&#x200f;.عرب&#x200e;",
+    "type": "generic",
+    "owner": "League of Arab States"
+  },
+  {
+    "name": "xn--node",
+    "namestr": ".გე",
+    "type": "country-code",
+    "owner": "Information Technologies Development Center (ITDC)"
+  },
+  {
+    "name": "xn--nqv7f",
+    "namestr": ".机构",
+    "type": "generic",
+    "owner": "Public Interest Registry"
+  },
+  {
+    "name": "xn--nqv7fs00ema",
+    "namestr": ".组织机构",
+    "type": "generic",
+    "owner": "Public Interest Registry"
+  },
+  {
+    "name": "xn--nyqy26a",
+    "namestr": ".健康",
+    "type": "generic",
+    "owner": "Stable Tone Limited"
+  },
+  {
+    "name": "xn--o3cw4h",
+    "namestr": ".ไทย",
+    "type": "country-code",
+    "owner": "Thai Network Information Center Foundation"
+  },
+  {
+    "name": "xn--ogbpf8fl",
+    "namestr": "&#x200f;.سورية&#x200e;",
+    "type": "country-code",
+    "owner": "National Agency for Network Services (NANS)"
+  },
+  {
+    "name": "xn--otu796d",
+    "namestr": ".招聘",
+    "type": "generic",
+    "owner": "Dot Trademark TLD Holding Company Limited"
+  },
+  {
+    "name": "xn--p1acf",
+    "namestr": ".рус",
+    "type": "generic",
+    "owner": "Rusnames Limited"
+  },
+  {
+    "name": "xn--p1ai",
+    "namestr": ".рф",
+    "type": "country-code",
+    "owner": "Coordination Center for TLD RU"
+  },
+  {
+    "name": "xn--pbt977c",
+    "namestr": ".珠宝",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "xn--pgbs0dh",
+    "namestr": "&#x200f;.تونس&#x200e;",
+    "type": "country-code",
+    "owner": "Agence Tunisienne d&#x27;Internet"
+  },
+  {
+    "name": "xn--pssy2u",
+    "namestr": ".大拿",
+    "type": "generic",
+    "owner": "VeriSign Sarl"
+  },
+  {
+    "name": "xn--q7ce6a",
+    "namestr": ".ລາວ",
+    "type": "country-code",
+    "owner": "Lao National Internet Center (LANIC), Ministry of Technology and Communications"
+  },
+  {
+    "name": "xn--q9jyb4c",
+    "namestr": ".みんな",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "xn--qcka1pmc",
+    "namestr": ".グーグル",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "xn--qxa6a",
+    "namestr": ".ευ",
+    "type": "country-code",
+    "owner": "EURid vzw"
+  },
+  {
+    "name": "xn--qxam",
+    "namestr": ".ελ",
+    "type": "country-code",
+    "owner": "ICS-FORTH GR"
+  },
+  {
+    "name": "xn--rhqv96g",
+    "namestr": ".世界",
+    "type": "generic",
+    "owner": "Stable Tone Limited"
+  },
+  {
+    "name": "xn--rovu88b",
+    "namestr": ".書籍",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "xn--rvc1e0am3e",
+    "namestr": ".ഭാരതം",
+    "type": "country-code",
+    "owner": "National Internet eXchange of India"
+  },
+  {
+    "name": "xn--s9brj9c",
+    "namestr": ".ਭਾਰਤ",
+    "type": "country-code",
+    "owner": "National Internet Exchange of India"
+  },
+  {
+    "name": "xn--ses554g",
+    "namestr": ".网址",
+    "type": "generic",
+    "owner": "KNET Co., Ltd"
+  },
+  {
+    "name": "xn--t60b56a",
+    "namestr": ".닷넷",
+    "type": "generic",
+    "owner": "VeriSign Sarl"
+  },
+  {
+    "name": "xn--tckwe",
+    "namestr": ".コム",
+    "type": "generic",
+    "owner": "VeriSign Sarl"
+  },
+  {
+    "name": "xn--tiq49xqyj",
+    "namestr": ".天主教",
+    "type": "generic",
+    "owner": "Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)"
+  },
+  {
+    "name": "xn--unup4y",
+    "namestr": ".游戏",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "xn--vermgensberater-ctb",
+    "namestr": ".vermögensberater",
+    "type": "generic",
+    "owner": "Deutsche Vermögensberatung Aktiengesellschaft DVAG"
+  },
+  {
+    "name": "xn--vermgensberatung-pwb",
+    "namestr": ".vermögensberatung",
+    "type": "generic",
+    "owner": "Deutsche Vermögensberatung Aktiengesellschaft DVAG"
+  },
+  {
+    "name": "xn--vhquv",
+    "namestr": ".企业",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "xn--vuq861b",
+    "namestr": ".信息",
+    "type": "generic",
+    "owner": "Beijing Tele-info Network Technology Co., Ltd."
+  },
+  {
+    "name": "xn--w4r85el8fhu5dnra",
+    "namestr": ".嘉里大酒店",
+    "type": "generic",
+    "owner": "Kerry Trading Co. Limited"
+  },
+  {
+    "name": "xn--w4rs40l",
+    "namestr": ".嘉里",
+    "type": "generic",
+    "owner": "Kerry Trading Co. Limited"
+  },
+  {
+    "name": "xn--wgbh1c",
+    "namestr": "&#x200f;.مصر&#x200e;",
+    "type": "country-code",
+    "owner": "National Telecommunication Regulatory Authority - NTRA"
+  },
+  {
+    "name": "xn--wgbl6a",
+    "namestr": "&#x200f;.قطر&#x200e;",
+    "type": "country-code",
+    "owner": "Communications Regulatory Authority"
+  },
+  {
+    "name": "xn--xhq521b",
+    "namestr": ".广东",
+    "type": "generic",
+    "owner": "Guangzhou YU Wei Information Technology Co., Ltd."
+  },
+  {
+    "name": "xn--xkc2al3hye2a",
+    "namestr": ".இலங்கை",
+    "type": "country-code",
+    "owner": "LK Domain Registry"
+  },
+  {
+    "name": "xn--xkc2dl3a5ee0h",
+    "namestr": ".இந்தியா",
+    "type": "country-code",
+    "owner": "National Internet Exchange of India"
+  },
+  {
+    "name": "xn--y9a3aq",
+    "namestr": ".հայ",
+    "type": "country-code",
+    "owner": "&quot;Internet Society&quot; Non-governmental Organization"
+  },
+  {
+    "name": "xn--yfro4i67o",
+    "namestr": ".新加坡",
+    "type": "country-code",
+    "owner": "Singapore Network Information Centre (SGNIC) Pte Ltd"
+  },
+  {
+    "name": "xn--ygbi2ammx",
+    "namestr": "&#x200f;.فلسطين&#x200e;",
+    "type": "country-code",
+    "owner": "Ministry of Telecom &amp; Information Technology (MTIT)"
+  },
+  {
+    "name": "xn--zckzah",
+    "namestr": ".テスト",
+    "type": "test",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "xn--zfr164b",
+    "namestr": ".政务",
+    "type": "generic",
+    "owner": "China Organizational Name Administration Center"
+  },
+  {
+    "name": "xperia",
+    "namestr": ".xperia",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "xxx",
+    "namestr": ".xxx",
+    "type": "sponsored",
+    "owner": "ICM Registry LLC"
+  },
+  {
+    "name": "xyz",
+    "namestr": ".xyz",
+    "type": "generic",
+    "owner": "XYZ.COM LLC"
+  },
+  {
+    "name": "yachts",
+    "namestr": ".yachts",
+    "type": "generic",
+    "owner": "XYZ.COM LLC"
+  },
+  {
+    "name": "yahoo",
+    "namestr": ".yahoo",
+    "type": "generic",
+    "owner": "OATH INC"
+  },
+  {
+    "name": "yamaxun",
+    "namestr": ".yamaxun",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "yandex",
+    "namestr": ".yandex",
+    "type": "generic",
+    "owner": "Yandex Europe B.V."
+  },
+  {
+    "name": "ye",
+    "namestr": ".ye",
+    "type": "country-code",
+    "owner": "TeleYemen"
+  },
+  {
+    "name": "yodobashi",
+    "namestr": ".yodobashi",
+    "type": "generic",
+    "owner": "YODOBASHI CAMERA CO.,LTD."
+  },
+  {
+    "name": "yoga",
+    "namestr": ".yoga",
+    "type": "generic",
+    "owner": "Registry Services, LLC"
+  },
+  {
+    "name": "yokohama",
+    "namestr": ".yokohama",
+    "type": "generic",
+    "owner": "GMO Registry, Inc."
+  },
+  {
+    "name": "you",
+    "namestr": ".you",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "youtube",
+    "namestr": ".youtube",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "yt",
+    "namestr": ".yt",
+    "type": "country-code",
+    "owner": "Association Française pour le Nommage Internet en Coopération (A.F.N.I.C.)"
+  },
+  {
+    "name": "yun",
+    "namestr": ".yun",
+    "type": "generic",
+    "owner": "QIHOO 360 TECHNOLOGY CO. LTD."
+  },
+  {
+    "name": "za",
+    "namestr": ".za",
+    "type": "country-code",
+    "owner": "ZA Domain Name Authority"
+  },
+  {
+    "name": "zappos",
+    "namestr": ".zappos",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "zara",
+    "namestr": ".zara",
+    "type": "generic",
+    "owner": "Industria de Diseño Textil, S.A. (INDITEX, S.A.)"
+  },
+  {
+    "name": "zero",
+    "namestr": ".zero",
+    "type": "generic",
+    "owner": "Amazon Registry Services, Inc."
+  },
+  {
+    "name": "zip",
+    "namestr": ".zip",
+    "type": "generic",
+    "owner": "Charleston Road Registry Inc."
+  },
+  {
+    "name": "zippo",
+    "namestr": ".zippo",
+    "type": "generic",
+    "owner": "Not assigned"
+  },
+  {
+    "name": "zm",
+    "namestr": ".zm",
+    "type": "country-code",
+    "owner": "Zambia Information and Communications Technology Authority (ZICTA)"
+  },
+  {
+    "name": "zone",
+    "namestr": ".zone",
+    "type": "generic",
+    "owner": "Binky Moon, LLC"
+  },
+  {
+    "name": "zuerich",
+    "namestr": ".zuerich",
+    "type": "generic",
+    "owner": "Kanton Zürich (Canton of Zurich)"
+  },
+  {
+    "name": "zw",
+    "namestr": ".zw",
+    "type": "country-code",
+    "owner": "Postal and Telecommunications Regulatory Authority of Zimbabwe (POTRAZ)"
+  }
+]
