@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 'use strict';
 
 const fs = require('fs');
@@ -13,6 +15,7 @@ const fs = require('fs');
 
   const content = ianahtml.match(/<tbody>(.*?)<\/tbody>\s+<\/table>/ms)[1];
 
+  // eslint-disable-next-line max-len
   const regex = /\s+<tr>\s+<td>\s+<span class="domain tld"><a href="(.*?)">(.*?)<\/a><\/span><\/td>\s+<td>(.*?)\<\/td>\s+<td>(.*?)<\/td>\s+<\/tr>/mg;
 
   const res = content.matchAll(regex);
@@ -27,7 +30,11 @@ const fs = require('fs');
     };
   });
 
+  const names = arr.map(n => n.name);
+  names.sort();
+
   fs.writeFileSync('./data/iana-db.json', JSON.stringify(arr, null, 2));
+  fs.writeFileSync('./data/iana-names.txt', names.join('\n'));
 })().catch((err) => {
   console.error(err);
   process.exit(1);
